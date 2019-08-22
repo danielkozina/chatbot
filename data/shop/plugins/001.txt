@@ -1,0 +1,1 @@
+TNT express plugin is creates specially for TNT integration. It can be used with magento, wordpress and another systems. Shipping system for shops.

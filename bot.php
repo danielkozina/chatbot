@@ -1,10 +1,13 @@
 <?php
 
+// chatbot for Facebook 
+// author: Daniel Kozina
+
 require 'vendor/autoload.php';
 
 // FB token
 $hubVerifyToken = 'fb_bot';
-$accessToken =   "EAAGPZBz7N3GMBAJ2gZBaxlznfL11qbtYmZCcoI9TiRTzlp4t2m4lltCe9MiuOTfdB7H6ZBa2WnNrwn9QH4b3aCNHTMPm5HT6LdGPice49hD9qsGSQcZBOHcnt6QEXg2kIZA0bgczj7JZAnJ9fngrLbRieXJrikUOfEZANbtSbiyV6dMCFhGEEr4I";
+$accessToken =   "EAAGPZBz7N3GMBAJ7MR4B87hLCieg819bZBkmAC5xOUxDsUZCPBZAPuRXnqFemcrcq0ZASe8QZAHGEbS8JwnrINkHs06ZCIAyG90wXXgUZAQtbwHZA3fcEaRQL6TBsZBigbc0L7pE3VHlkuWlSMsKekYrGeoYbLc3RiyGcvt2iFhyZCp9vAsROHYOiJu";
 
 // check FB token
 if ($_REQUEST['hub_verify_token'] === $hubVerifyToken) {
@@ -18,7 +21,7 @@ $senderId = $input['entry'][0]['messaging'][0]['sender']['id'];
 $messageText = $input['entry'][0]['messaging'][0]['message']['text'];
 $response = null;
 
-if($messageText == "Hi") {
+if($messageText == "Hi" || $messageText == 'hi') {
     $answer = "Hello";
 }
 
@@ -27,7 +30,7 @@ $response = [
     'message' => [ 'text' => $answer ]
 ];
 
-$ch = curl_init('https://graph.facebook.com/v2.6/me/messages?access_token='.$accessToken);
+$ch = curl_init('https://graph.facebook.com/v4.0/me/messages?access_token='.$accessToken);
 
 curl_setopt($ch, CURLOPT_POST, 1);
 curl_setopt($ch, CURLOPT_POSTFIELDS, json_encode($response));
