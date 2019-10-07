@@ -6,17 +6,111 @@ namespace Composer\Autoload;
 
 class ComposerStaticInit408b2b282f7af98f2ea688c684a8fee2
 {
+    public static $files = array (
+        'e8aa6e4b5a1db2f56ae794f1505391a8' => __DIR__ . '/..' . '/amphp/amp/lib/functions.php',
+        '76cd0796156622033397994f25b0d8fc' => __DIR__ . '/..' . '/amphp/amp/lib/Internal/functions.php',
+        '6cd5651c4fef5ed6b63e8d8b8ffbf3cc' => __DIR__ . '/..' . '/amphp/byte-stream/lib/functions.php',
+        '7b11c4dc42b3b3023073cb14e519683c' => __DIR__ . '/..' . '/ralouphie/getallheaders/src/getallheaders.php',
+        '8dc56fe697ca93c4b40d876df1c94584' => __DIR__ . '/..' . '/amphp/process/lib/functions.php',
+        'bcb7d4fc55f4b1a7e10f5806723e9892' => __DIR__ . '/..' . '/amphp/sync/src/functions.php',
+        'a0edc8309cc5e1d60e3047b5df6b7052' => __DIR__ . '/..' . '/guzzlehttp/psr7/src/functions_include.php',
+        '384cf4f2eb4d2f896db72315a76066ad' => __DIR__ . '/..' . '/amphp/parallel/lib/Worker/functions.php',
+        '8f758069bf9eb3411d096c10be343745' => __DIR__ . '/..' . '/rubix/tensor/src/constants.php',
+        '702239352e6628be5dc71b6fd029e72e' => __DIR__ . '/..' . '/rubix/ml/src/constants.php',
+        '0315e8fd3e479309d097647b8ef2920b' => __DIR__ . '/..' . '/rubix/ml/src/functions.php',
+    );
+
     public static $prefixLengthsPsr4 = array (
+        'R' => 
+        array (
+            'Rubix\\Tensor\\' => 13,
+            'Rubix\\ML\\' => 9,
+        ),
         'P' => 
         array (
+            'Psr\\Log\\' => 8,
+            'Psr\\Http\\Message\\' => 17,
             'Phpml\\' => 6,
+        ),
+        'J' => 
+        array (
+            'JAMA\\' => 5,
+        ),
+        'I' => 
+        array (
+            'Intervention\\Image\\' => 19,
+        ),
+        'G' => 
+        array (
+            'GuzzleHttp\\Psr7\\' => 16,
+        ),
+        'A' => 
+        array (
+            'Amp\\Sync\\' => 9,
+            'Amp\\Process\\' => 12,
+            'Amp\\Parser\\' => 11,
+            'Amp\\Parallel\\' => 13,
+            'Amp\\ByteStream\\' => 15,
+            'Amp\\' => 4,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
+        'Rubix\\Tensor\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/rubix/tensor/src',
+        ),
+        'Rubix\\ML\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/rubix/ml/src',
+        ),
+        'Psr\\Log\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/psr/log/Psr/Log',
+        ),
+        'Psr\\Http\\Message\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/psr/http-message/src',
+        ),
         'Phpml\\' => 
         array (
             0 => __DIR__ . '/..' . '/php-ai/php-ml/src',
+        ),
+        'JAMA\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/rubix/tensor/lib/JAMA',
+        ),
+        'Intervention\\Image\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/intervention/image/src/Intervention/Image',
+        ),
+        'GuzzleHttp\\Psr7\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/guzzlehttp/psr7/src',
+        ),
+        'Amp\\Sync\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/amphp/sync/src',
+        ),
+        'Amp\\Process\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/amphp/process/lib',
+        ),
+        'Amp\\Parser\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/amphp/parser/lib',
+        ),
+        'Amp\\Parallel\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/amphp/parallel/lib',
+        ),
+        'Amp\\ByteStream\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/amphp/byte-stream/lib',
+        ),
+        'Amp\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/amphp/amp/lib',
         ),
     );
 

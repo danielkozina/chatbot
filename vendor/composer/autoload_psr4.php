@@ -6,5 +6,18 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
+    'Rubix\\Tensor\\' => array($vendorDir . '/rubix/tensor/src'),
+    'Rubix\\ML\\' => array($vendorDir . '/rubix/ml/src'),
+    'Psr\\Log\\' => array($vendorDir . '/psr/log/Psr/Log'),
+    'Psr\\Http\\Message\\' => array($vendorDir . '/psr/http-message/src'),
     'Phpml\\' => array($vendorDir . '/php-ai/php-ml/src'),
+    'JAMA\\' => array($vendorDir . '/rubix/tensor/lib/JAMA'),
+    'Intervention\\Image\\' => array($vendorDir . '/intervention/image/src/Intervention/Image'),
+    'GuzzleHttp\\Psr7\\' => array($vendorDir . '/guzzlehttp/psr7/src'),
+    'Amp\\Sync\\' => array($vendorDir . '/amphp/sync/src'),
+    'Amp\\Process\\' => array($vendorDir . '/amphp/process/lib'),
+    'Amp\\Parser\\' => array($vendorDir . '/amphp/parser/lib'),
+    'Amp\\Parallel\\' => array($vendorDir . '/amphp/parallel/lib'),
+    'Amp\\ByteStream\\' => array($vendorDir . '/amphp/byte-stream/lib'),
+    'Amp\\' => array($vendorDir . '/amphp/amp/lib'),
 );

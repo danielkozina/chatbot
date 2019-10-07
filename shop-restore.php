@@ -1,22 +1,20 @@
 <?php
+
 declare(strict_types=1);
 
 namespace PhpmlExamples;
 use Phpml\ModelManager;
 
-require 'vendor/autoload.php';
+include 'vendor/autoload.php';
 
-$start = microtime(true);
 $modelManager = new ModelManager();
-$model = $modelManager->restoreFromFile(__DIR__.'/model/shop-model.phpml');
-$total = microtime(true) - $start;
+$model = $modelManager->restoreFromFile('model/shop-model.phpml');
 
-echo sprintf('Model loaded in %ss', round($total, 4)) . PHP_EOL;
+// $text = "Kampanie SEO które pozwolą Ci się zareklamować";
+// $text = "Budowa stron internetowych opartych o super funkcjnalności i HTML, CSS";
+// $text = "Prowadzenie Adwords to nasza specjalność";
+// $text = "Budowa JavaScript i PHP";
+$text = 'z gotowego motywu graficznego';
+$predicted = $model->predict([$text]);
 
-$text = 'Hello i want to buy plugins for my wife. She want to have a TNT and Raben.';
-$start = microtime(true);
-$predicted = $model->predict([$text])[0];
-
-$total = microtime(true) - $start;
-
-echo sprintf('Predicted category: %s in %ss', $predicted, round($total, 6)) . PHP_EOL;
+var_dump($predicted);

@@ -25,6 +25,16 @@ if($messageText == "Hi" || $messageText == 'hi') {
     $answer = "Hello";
 }
 
+$file = 'error.txt';
+// Open the file to get existing content
+$current = file_get_contents($file);
+// Append a new person to the file
+$current .= $senderId;
+// Write the contents back to the file
+file_put_contents($file, $current);
+$json_data = json_encode($input);
+file_put_contents('myfile.json', $json_data);
+
 $response = [
     'recipient' => [ 'id' => $senderId ],
     'message' => [ 'text' => $answer ]
