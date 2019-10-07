@@ -1,0 +1,136 @@
+Dlaczego Google nie indeksuje Twojej strony? - Utrata widoczności w sieci to powód do niepokoju dla każdego
+e-przedsiębiorcy w Polsce. Wyobraź sobie taką sytuację: stali klienci dzwonią do Ciebie, mówiąc, że nie mogą znaleźć
+Twojej strony w Google. W panice przeglądasz statystyki nie rozumiejąc, czemu wejścia z wyszukiwarki praktycznie się w
+nich nie pojawiają. Nie wiesz co robić i co się dzieje? Spokojnie! Przeczytaj poniższy artykuł, a znajdziesz
+prawdopodobne wyjaśnienie i stworzysz sensowny plan działania, aby Twoja strona www dobrze się indeksowała.
+
+Pierwsze kroki - przekonaj się, jak jest naprawdę
+Divider
+Sytuacja, w której właścicielom strony wydaje się, że Google o niej zapomniał, w rzeczywistości na ogół przedstawia się
+zupełnie inaczej. Podstawowe pytanie brzmi: jakie kroki próbujesz podjąć, by sprawdzić, dlaczego Google nie indeksuje
+Twojej strony? Jeśli wpisujesz nazwę firmy/strony lub wybrane z niej zdanie w polu wyszukiwarki, a następnie skanujesz
+wzrokiem pierwszą stronę wyników, popełniasz powszechny błąd. Polega on na pomyleniu braku indeksowania z osiągnięciem
+niskiej pozycji w rankingu Google.
+
+Strony www, które nie zostały poddane złożonemu procesowi pozycjonowania i optymalizacji, lub nie mają ogromnej liczby
+odwiedzających jej odbiorców, nie znajdą się wysoko na liście wyników. Upewnij się zatem, że witryna faktycznie nie jest
+indeksowana, używając komendy "site:", gdzie po dwukropku wpisujesz pełny adres strony. Jeśli ją znajdziesz, ale
+wyszukanie za pomocą komendy to jedyna sytuacja, gdy ukaże się ona na samym szczycie wyników, to znak, że czas
+zainwestować w solidną kampanię SEO.
+
+
+
+Nowa strona? Cierpliwość potrzebna od zaraz
+Divider
+Jeśli właśnie uruchomiłeś świeżo przygotowaną witrynę, prawdopodobnie nie ma najmniejszych powodów do obaw. Na ogół
+pełne zaindeksowanie strony zajmuje Google około tygodnia, ale może też potrwać nawet miesiąc, w zależności od wagi i
+stopnia rozbudowania contentu pod danym adresem URL oraz ilości zewnętrznych odnośników/wzmianek. Specyfika działania
+algorytmów wyszukiwarki oraz ogromna liczba nowych stron, które każdego dnia pojawiają się w sieci, to główne powody,
+dla których zajmuje to tak dużo czasu.
+
+Czy możesz zrobić coś, by skrócić ten okres? Jak najbardziej. Istnieje możliwość zgłoszenia strony do Google w celu
+ponownego zaindeksowania przy użyciu Google Search Console (Google Webmaster Tools). Dzięki temu strona pojawi się po
+kilku minutach w wyszukiwarce, ale roboty nie będą do niej regularnie wracać. Dlaczego? Z powodu braku zewnętrznych
+sygnałów, czyli linków. Dlatego zadbaj również o zdobycie dobrych odnośników, na przykład z mediów społecznościowych
+bądź z branżowych forów/katalogów.
+
+Indeksowanie w Google od podszewki - jak to działa?
+Divider
+Za tworzenie oraz rozbudowywanie indeksu stron w wyszukiwarce Google odpowiedzialny jest robot indeksujący - Googlebot.
+Porusza się on po zakamarkach sieci, a jego przejścia pomiędzy witrynami zapisywane są w postaci indeksu, który staje
+się całkowitą bazą treści, dostępną z poziomu wyszukiwarki. Oczywiście treściom tym bardzo daleko do reprezentowania
+całego stworzonego internetu, ale to już temat na inną publikację.
+
+Za pierwsze indeksowanie strony odpowiedzialny jest tryb deep crawl Googlebota. Odświeżanie natomiast odbywa się na
+podstawie fresh crawl, gdzie robot koncentruje się na regularnie aktualizowanych stronach. Podstawą jego funkcjonowania
+są umieszczone na stronie linki, pod adresem których umieszczone są strony już zaindeksowane. To jedna z najważniejszych
+przyczyn, dla których koncentracja na odpowiednim link buildingu szybko zaczyna przynosić satysfakcjonujące efekty w
+zakresie pozycjonowania.
+
+
+
+Noindex i nofollow - sprawdź, czy wszystko się zgadza
+Divider
+Pierwszym miejscem, w którym Googlebot zapozna się z Twoją stroną, będzie plik robots.txt. Można go z powodzeniem
+określić jako swego rodzaju skrócony podręcznik etykiety dla botów - stąd właśnie dowiadują się, co mogą zrobić w
+obrębie danej witryny, a co nie będzie mile widziane. W jego obrębie umieszczane są parametry takie jak allow i
+disallow, określające zakres tego, co może, a czego nie ma indeksować robot Google.
+
+By przekonać się, że kod Twojej strony nie wyklucza możliwości jej indeksowania, sprawdź kod strony poprzez skrót
+klawiszowy ctrl + U. Jeżeli znajdziesz tam tag noindex i nofollow oznacza to, że crawl robota indeksującego nie zakończy
+się sukcesem. A dlaczego ktoś chciałby celowo umieścić tam takie tagi? Powody mogą być dość zróżnicowane -
+najpopularniejszym z nich jest wykorzystanie tagów na etapie konstrukcji strony. Powinny one zostać następnie usunięte,
+gdyż pomyłka w tym zakresie będzie skutkować brakiem indeksowania.
+
+Skorzystaj z narzędzi dostarczonych przez Google
+Divider
+Aktywne zarządzanie widocznością oraz pozycją stron internetowych przez ich właścicieli znacznie ułatwia pracę programom
+Google. Nie dziwi więc fakt, iż firma przygotowała do ich dyspozycji takie narzędzia jak Google Search Console (GSC).
+Jego umiejętne użytkowanie dostarczy Ci odpowiedzi na wiele pytań związanych z dostępnością strony oraz pomoże poprawić
+jej funkcjonowanie tak, by była jak najlepiej oceniania przez algorytmy wyszukiwarki.
+
+By z niego korzystać, potrzebne będzie utworzenie indywidualnego konta oraz dodanie adresu witryny, która następnie
+zostanie zweryfikowana. Musi pojawić się ona w ostatecznej, dostępnej w sieci wersji. Za pomocą GSC możesz przesłać do
+Google kompletną mapę Twojego serwisu, co przyspieszy działanie robotów i zapobiegnie ewentualnym błędom. Załadowanie
+jej w formie podzielonych na czytelne segmenty plików dodatkowo ułatwi proces indeksowania.
+
+Dzięki niezwykle przydatnej funkcjonalności "Pobierz jako Google" GSC przekonasz się, w jaki sposób Twoja strona
+przedstawia się z punktu widzenia algorytmów wyszukiwarki. Jeśli pomiędzy wersją, którą widzą użytkownicy a tą, która
+pokazuje się Googlebotowi istnieją jakiekolwiek różnice, właśnie w nich może tkwić przyczyna problemów z indeksowaniem.
+
+
+
+Duplicate content? Treść musi się zgadzać
+Divider
+Występowanie na stronie duplicate content, czyli powtarzających się treści, może wpłynąć negatywnie nie tylko na pozycje
+fraz kluczowych w rankingach, ale i na sam proces jej indeksowania. Warto tu zaznaczyć, że przypadkowy duplicate content
+w obrębie tej samej domeny to zasadniczo coś innego, niż świadome wykorzystanie treści pojawiających się na innych
+stronach, niemniej jednak w dalszym ciągu ma on znaczenie, jeśli chodzi o postrzeganie strony przez Google (więcej na
+ten temat TUTAJ).
+
+Weryfikując stronę pod kątem powielonej treści, zacznij w pierwszym rzędzie od samego adresu witryny. Jeśli nie jest on
+jednolity, a występuje w kilku wersjach, dokonaj potrzebnej modyfikacji, najlepiej przy użyciu parametru Canonical bądź
+przekierowania 301. Pomoże to usunąć problemy wynikające z istnienia witryny w wielu wersjach.
+
+Divider
+Jako duplicate content mogą zostać ocenione także takie treści jak powtarzający się w tej samej formie skład kosmetyku,
+czy też opis produktu. Nie zawsze ich zmiana na unikalne będzie tu najlepszą drogą (np. podawanie składów w dokładnej
+kolejności to wymóg wynikający z przepisów prawa UE), ale z pewnością nie zaszkodzi poszukać metod na obejście tej
+sytuacji. Pamiętaj także, że umieszczanie na stronie treści, które w nachalny sposób przygotowane zostały pod
+pozycjonowanie nie przedstawiając przy tym większej wartości dla użytkownika, może skutkować nałożeniem przez Google
+mniej lub bardziej dotkliwych kar, w tym braku indeksacji.
+
+Przekierowania 301 - czy tu leży powód zamieszania?
+Divider
+Z przekierowań 301 korzystasz za każdym razem, gdy zależy Ci na nadanie nowego kierunku ruchowi na stronie. Dzięki ich
+użytkowaniu Twoi klienci nie natykają się na zniechęcające do dalszej eksploracji komunikaty o błędzie, a zostają
+przeniesieni do nowej wersji podstrony. Być może wiesz już, że z systemem przekierowań mogą wiązać się tymczasowe spadki
+SEO, ale to nie wszystko. Dokładne zaindeksowanie pojawiających się zmian przez roboty to proces, nie działanie
+jednorazowe, zatem może się zdarzyć, że nie będzie on przebiegał bezwypadkowo.
+
+Upewnij się, że we właściwy sposób dokonałeś przekierowania - w tym celu sprawdź zawartość pliku .htaccess. Ogólnie
+można założyć, iż przekierowanie nie powinno zawierać zbyt wielu pętli, by nie powstała sytuacja, w której robot
+indeksujący nie będzie w stanie dotrzeć do witryny docelowej. Jeśli do tego dojdzie, crawl Googlebota nie zakończy się
+sukcesem, czego bezpośrednim efektem będzie brak strony w indeksie Google. Pamiętaj także by zapoznać się z aktualnymi
+zaleceniami Google w zakresie korzystania z przekierowań 301, 302 i 307. Sprawdź przy tym protokoły zabezpieczeń używane
+przez Twoje witryny.
+
+
+
+Inne przyczyny problemów
+Divider
+Jeżeli robot indeksujący nie będzie w stanie pobrać dostępnych na stronie grafik czy elementów javascript, witryna może
+nie zostać zaindeksowana prawidłowo. Starannie zanalizuj jej kontent, poszukując potencjalnego źródła błędów
+indeksowania za pomocą wymienionego wyżej programu GSC. Następną kwestią, której należy uważnie się przyjrzeć, jest sama
+prędkość ładowania strony internetowej - sprawa pozornie błaha, jednak w tym przypadku nie warto dać się zwieść pozorom.
+Zbyt ciężkie strony to w oczach robotów Google element niepożądany w sieci nastawionej na użytkownika. Postaraj się
+zatem, by Twoja strona główna i wszystkie podstrony ładowały się w tempie ekspresowym – do 3 sekund.
+
+
+PODSUMOWANIE
+Wolne ładowanie się strony może wynikać również z sytuacji, w której sam kontent waży zbyt mało w stosunku do kodu i
+innych elementów konstrukcji witryny. Pamiętaj także, że na każdą stronę przewidziany został przez Google określony
+budżet indeksowania witryny (crawl budget). Googlebot nie jest w stanie jednorazowo indeksować nieskończonej liczby
+podstron - będzie robił to stopniowo, powracając do danej strony. Warto zatem zadbać o porządek w poleceniach
+dotyczących indeksowania, aby wspomniany budżet nie wyczerpał się od razu z powodu stron, których obecność w indeksie
+nie jest do niczego potrzebna, np. dotyczących cookies czy też polityki prywatności.

@@ -1,0 +1,280 @@
+SEO co to jest? Zrozum podstawy optymalizacji i pozycjonowania (aktualizacja 2019)
+utworzone przez Szymon Słowik | 26 kwietnia 2019 | content marketing, e-biznes i strategia, Link building, SEO
+
+1 MASZ PYTANIA ODNOŚNIE OFERTY POZYCJONOWANIA?
+2 SEO – definicja i tłumaczenie
+3 SEO w świecie
+4 Z czego składa się SEO?
+5 Off-page SEO i On-page SEO
+5.1 Wybrane taktyki off-page SEO – infografika
+6 Kwestie sporne wokół optymalizacji i pozycjonowania
+7 Czynniki ilościowe i jakościowe w działaniach SEO
+8 Narzędzia SEO
+9 SEO w ujęciu strategicznym
+10 Audyt SEO – co to jest?
+11 Usługi SEO
+12 SEO w 2019 roku
+13 Dalsza lektura na temat optymalizacji i pozycjonowania
+13.1 Artykuły o on-page SEO:
+13.2 Artykuły o off-page:
+13.3 Artykuły o treściach, współpracy z agencjami i strategii SEO:
+SEO – co to jest? To pojęcie, które na zmianę pojawia się w kontekście doniesień o śmierci tej dziedziny marketingu
+internetowego i doniesień o jej niezwykłej opłacalności i zwiększających się budżetach na ten kanał pozyskiwania ruchu.
+Jaka jest prawda?
+
+
+Nazywam się Szymon Słowik i zajmuję się SEO zawodowo od 8 lat (hobbystycznie dłużej). Przygotowałem ten wpis z myślą o
+osobach rozpoczynających swoją przygodę z marketingiem w wyszukiwarkach. Ten artykuł pomoże ci zrozumieć podstawy
+optymalizacji i pozycjonowania stron internetowych. Został napisany tak, aby przedstawić kluczowe zagadnienia (a w
+kontekście bardziej szczegółowych kwestii odsyłać do artykułów bardziej specjalistycznych), zdefiniować najważniejsze
+zagadnienia – fundamenty SEO. Został także zaktualizowany, aby przedstawić również trendy i najważniejsze zjawiska
+wpływające na optymalizację i pozycjonowanie w 2019 roku (pierwotnie tekst opublikowany 21 Gru 2017.
+
+Jeśli oprócz wiedzy szukasz także profesjonalnego wsparcia w optymalizacji i pozycjonowaniu swojej strony internetowej…
+
+
+
+MASZ PYTANIA ODNOŚNIE OFERTY POZYCJONOWANIA?
+NAPISZ DO MNIE
+
+
+SEO – definicja i tłumaczenie
+SEO (ang. Search Engine Optimization) to w dosłownym tłumaczeniu optymalizacja pod silnik wyszukiwarki. To proces
+zorientowany na poprawę widoczności w organicznych wynikach wyszukiwania (organicznych – czyli nie tych płatnych, jak w
+przypadku Google reklama w formie linków sponsorowanych AdWords). Wiele osób utożsamia SEO z procesem optymalizacji
+witryny, lecz SEO to coś więcej. To zarówno poprawa technicznych aspektów witryny, rozbudowa jej treści, jak i
+zdobywanie linków pozycjonujących z innych domen w sieci (przy czym jest to temat dużo szerszy niż katalogi SEO, które
+są już przeżytkiem). Co na ten temat mówi Wikipedia?
+
+Definicja SEO wg Wikipedii (podaję ja tylko jako przykład, bo we wspomnianym artykule z wiki pojawia się też wiele
+sformułowań, z którymi ciężko się zgodzić – zaznaczyłem przykład na czerwono poniżej):
+
+seo definicja wikipedia
+
+źródło: https://pl.wikipedia.org/wiki/Optymalizacja_dla_wyszukiwarek_internetowych
+
+SEO w świecie
+W świecie przez SEO rozumie się właśnie ogół procesów związanych z budowaniem widoczności i pozyskiwaniem ruchu z
+bezpłatnych wyników wyszukiwania (z tzw. SERP, czyli z angielskiego Search Engine Result Page). SEO to oddziaływanie na
+wszystkie czynniki poprawiające ranking i widoczność, a nie tylko optymalizacja budowy strony. To rodzi wiele
+nieporozumień.
+
+W Polsce przyjęło się bowiem, że SEO to tylko optymalizacja strony pod kątem wyszukiwarek, czy też stricte wyszukiwarki
+Google. Natomiast budowanie zaufania wyszukiwarki do strony poprzez zdobywanie linków pozycjonujących nazywa się często
+po prostu pozycjonowaniem strony internetowej.
+
+Podobna sytuacja dotyczy terminów SEO i SEM, które traktuje się rozdzielnie jako działania w wynikach bezpłatnych (SEO)
+oraz reklamę w wynikach płatnych (SEM), czy też szerzej, reklamę w internecie (Google Ads to już wiele więcej niż linki
+sponsorowane w wyszukiwarce). Tymczasem SEM (ang. Search Engine Markeitng – marketing w wyszukiwarkach internetowych),
+to ogół działań marketingowych, na które składa się właśnie ruch organiczny oraz reklamy (określane często w
+anglojęzycznych źródłach jako paid search lub PPC SEM; od PPC, czyli pay par click – opłaty za kliknięcie, będącej
+podstawowym modelem rozliczeniowym w Google AdWords).
+
+Z czego składa się SEO?
+W praktyce, jak już wspomniałem, optymalizacji może podlegać:
+
+treść tekstowa (np. gdy zmieniamy długość artykułów, ich tytuły, dodajemy słowa kluczowe itp.),
+struktura witryny (gdy zmieniamy elementy nawigacji, architektury informacji),
+warstwa techniczna i wizualna, a także użyteczność (szybkość witryny, responsywność, odpowiedni dobór śródtytułów,
+umiarkowane stosowanie reklam itp.),
+profil linków (czyli ogół odnośników prowadzących do strony z innych stron w sieci internetowej).
+Zatem ograniczanie SEO do samego procesu optymalizacji kodu (czasem z uwzględnieniem meta danych i tytułów) jest po
+prostu błędem merytorycznym. Czasem mówi się wręcz – optymalizacja strony pod SEO – co jasno wskazuje, że optymalizacja
+jest tylko częścią składową większej całości. Link building, czyli proces pozyskiwania linków pozycjonujących, jest
+immanentnym elementem SEO. Warto jednak pamiętać, że dla określenia całości tych zjawisk stosuje się w polskiej
+nomenklaturze pojemne sformułowanie optymalizacja i pozycjonowanie.
+
+W praktyce czynników pozycjonujących jest bardzo wiele. Mówi się o ponad 200, chociaż nikt chyba ich nigdy nie spisał.
+Trudno by było to zrobić, ponieważ działanie algorytmu Google jest tajemnicą. Prowadząc działania SEO opieramy się na
+wytycznych Google, własnych doświadczeniach, testach i analizach korelacji.
+
+Jedną z form prezentacji czynników, które obejmuje optymalizacja SEO, jest ta tablica „pierwiastków”. Chociaż od razu
+zaznaczam, że nie jest doskonała (z powodów, o których wspominałem w poprzednim akapicie):
+
+seo co to jest
+
+źródło: https://searchengineland.com/seotable
+
+Off-page SEO i On-page SEO
+Jak widać na zestawieniu powyżej, czynniki SEO możemy roboczo podzielić na te związane z samą stroną (on-page, czyli na
+stronie) i te poza nią (off-page, czyli dosłownie poza stroną). Poszczególne czynniki też oddziałują na siebie nawzajem
+i należy brać pod uwagę ich różne kombinacje. Co więcej, czynniki w zależności od niszy (konkretnego słowa kluczowego)
+mogą mieć różną wagę i znaczenie.
+
+Główne grupy czynników on-page SEO:
+
+content – treści (głównie treści tekstowe, ale nie tylko; często stricte tworzone pod tym kątem teksty SEO)
+architektura (czyli rozmieszczenie treści na stronie, linki pomiędzy zasobami)
+HTML (czyli budowa strony, oczywiście nie tylko w języku HTML)
+Główne grupy czynników off-page SEO:
+
+linki prowadzące do witryny
+sygnały społecznościowe*
+zaufanie do domeny* (np. związane z serwerem, wiekiem domeny, sygnałami z mediów społecznościowych)
+* kwestie bardziej dyskusyjne.
+
+Na off-page SEO (czyli to, co w praktyce często jest rozumiane pod pojęciem pozycjonowanie stron) składają się głównie
+różnego rodzaju taktyki zorientowane na pozyskiwanie linków:
+
+Wybrane taktyki off-page SEO – infografika
+taktyki linkowania
+
+Chcesz wykorzystać infografikę? Skopiuj ten kod i umieść na swojej stronie, blogu etc.:
+
+<a href=”https://www.szymonslowik.pl/seo-co-to-jest/”> <img
+    src=”https://www.szymonslowik.pl/wp-content/uploads/2017/12/taktyki-linkowania.png” alt=”sposoby zdobywania
+    linków”></a></br>
+<p>źródło: www.szymonslowik.pl/seo-co-to-jest</p>
+
+Kwestie sporne wokół optymalizacji i pozycjonowania
+Wielu specjalistów prowadzi spory, czy poszczególne czynniki rzeczywiście wpływają na pozycjonowanie w wyszukiwarkach (w
+praktyce głównie w wyszukiwarce Google), czy też jedynie korelują z wysokimi pozycjami. W praktyce stosunkowo trudno to
+zweryfikować, gdyż cały czas działamy w zmieniającym się otoczeniu. Nie da się przeprowadzić analizy ceteris paribus.
+Wraz z kształtowaniem przez nas jednego czynnika w ramach testu, zmieniają się czynniki zewnętrzne:
+
+profil linków i optymalizacja stron konkurencji (z którą „bijemy” się o pozycje i nie wiadomo, czy to nasza strona
+podskoczyła, czy inna spadła),
+algorytm Google,
+zachowania użytkowników.
+To prowadzi często do wyciągania pochopnych i nieuprawnionych wniosków. Na przykład wielu marketerów w pewnym momencie
+zauważa, że rozpoczęcie działań w Google AdWords wpływa na zwiększenie ruchu z wyników organicznych. Nie oznacza to
+jednak, że strona stała się lepiej widoczna (więcej fraz, lepsze pozycje), a jedynie, że jest częściej wykorzystywana
+(po adresie, marce). Pisałem o tym tutaj: szymonslowik.pl/wielkosc-ruchu-innych-kanalow-wplyw-seo/
+
+Czynniki ilościowe i jakościowe w działaniach SEO
+Często spotykam się z błędnym założeniem ze strony partnerów i klientów, którzy myślą, że optymalizacja to proces
+jednorazowy. Otóż niektóre kwestia można poprawić i dostosować do wymogów Google jednorazowo. Na przykład mogą być to
+kwestie związane z poprawieniem błędnych linków wewnętrznych (ustawienie przekierowań, zarządzanie błędami 404), zamianą
+linków graficznych w menu na linki tekstowe, przyspieszeniem strony, czy wdrożeniem RWD. Jednak bardzo wiele kwestii
+wymaga ciągłej, długofalowej pracy z uwzględnieniem intensywności i tempa działań konkurencji.
+
+Chcąc efektywnie konkurować w wynikach wyszukiwania należy tworzyć treść zoptymalizowaną pod różne tematy i frazy,
+kształtować optymalną strukturę serwisu i zdobywając linki. W przypadku linków pozycjonujących liczy się nie tylko ich
+ilość, ale i jakość. Nie zmienia to faktu, że trzeba je zdobywać regularnie, stale.
+
+Narzędzia SEO
+Specjaliści SEO korzystają z szeregu narzędzi w procesie diagnostyki SEO, optymalizacji i pozycjonowania. Nie ma
+jednego, idealnego narzędzia, czy też zestawu narzędzi, które gwarantują sukces. Po pierwsze, każdy specjalista buduje
+taki zestaw programów, który mu najlepiej służy. Po drugie, nawet najlepsze narzędzia nie dadzą długofalowego sukcesu w
+pozycjonowaniu, jeśli nie korzysta z nich specjalista potrafiący odczytywać, interpretować dane i przekładać je na
+skuteczne taktyki optymalizacji i pozycjonowania.
+
+Wśród popularnych narzędzi wykorzystywanych przez agencje oraz specjalistów SEO warto wymienić chociażby:
+
+Google Search Console (kiedyś Narzędzia dla webmasterów Google)
+Crawlery analizujące strukturę i wydajność strony: Sitebulb, Screaming Frog SEO Spider, a także webowe (np. Ahrefs lub
+JetOctopus)
+Narzędzia do analizy profilu linków: Ahrefs, Majestic, Link Research Tools, SEO SpyGlass, Moz OSE
+Oprogramowanie do analizy widoczności i pozycji: Senuto, Semstorm, Semrush
+Wtyczki wspierające optymalizację: Yoast SEO (dla WordPress), wtyczki do generowania sitemap (np. dedykowane wtyczki dla
+PrestaShop) lub optymalizacji wydajności (WP Super Cache)
+Czasem także inne elementy ekosystemu Google: Google Analytics, Google Trends, Google PageSpeed Insights, Google
+Structured Data Testing Tool i inne
+Narzędzia do analizy korelacji czynników i badania konkurencji (np. SurferSEO)
+Wypróbuj narzędzie SurferSEO w swoich działaniach SEO, contentowych i analizie konkurencji.
+SEO w ujęciu strategicznym
+Z perspektywy strategicznej pozycjonowanie i optymalizacja to:
+
+pozyskiwanie ruchu bez konieczności posiadania budżetu na każde kliknięcie (jak w przypadku reklam PPC lub kupowania
+powierzchni reklamowej w portalach),
+obecność w jednym z najpopularniejszych mediów, jakim jest wyszukiwarka Google,
+zapewnienie punktu styku między marką i klientem w momencie, gdy ten poszukuje informacji lub konkretnej oferty (to
+bardzo ważny element wędrówki klienta w niemal każdej branży).
+Proces ten powinien być postrzegany jako element całej strategii digital marketingu, a nie jako pojedyncze strzały (w
+tym kontekście pojawia się często sformułowanie kampania SEO, jakby to było jakieś działanie osadzone w konkretnych
+ramach czasowych). Pozycjonowanie stron trwa i trwa i nie należy oczekiwać, że któregoś dnia strona będzie wystarczająco
+wypozycjonowana. Pozycjonowanie stron to proces ciągły, ponieważ wyniki wyszukiwania dla każdej frazy to gra o sumie
+zerowej i ciągła aktywność konkurentów zmusza i nas do ciągłej aktywności, aby ich przegonić i utrzymywać
+satysfakcjonujące pozycje. Dlatego za pozycjonowanie strony należy płacić nawet gdy witryna osiągnęła satysfakcjonujące
+pozycje w Google.
+
+Audyt SEO – co to jest?
+W kontekście tematyki SEO bardzo często pojawia się pytanie co to jest audyt SEO? Na ten temat dowiesz się więcej na
+stronie Audyt SEO -co to jest i jakie niesie korzyści. Opisuję tam, jakie analizy przeprowadzam, aby ustalić właściwą
+ścieżkę optymalizacji strony i stworzyć zarys strategii pozycjonowania.
+
+Warto jednak nadmienić, że audyt dotyczy zarówno analizy kwestii technicznych, treści i struktury serwisu, jak i
+czynników zewnętrznych (linki pozycjonujące) oraz widoczności strony w czasie.
+
+
+Analiza linków, widoczności i estymowanego ruchu organicznego na https://www.bdsklep.pl/spozywcze; źródło: Ahrefs.com
+
+Usługi SEO
+Jeśli już wiesz, czym jest SEO i chcesz nawiązać współpracę w oparciu o transparentne warunki i z uwzględnieniem innych
+celów strategicznych twojego biznesu, to napisz do mnie. Bardzo chętnie pomogę.
+
+W zapytaniu ofertowym napisz koniecznie, o jaki serwis chodzi, jakie tematy Cię interesują (słowa kluczowe, kategorie
+produktów / usług), jaki przewidujesz na wstępie budżet oraz opisz bieżącą sytuację firmy, a otrzymasz bezpłatną wycenę
+pozycjonowania. Zawsze współpracę zaczynam od audytu SEO. Czas oczekiwania na audyt to zwykle ok. 2 miesiące od
+przesłania zapytania (w zależności od bieżącej kolejki).
+
+Audyt SEO obejmuje analizę kodu strony, analizę treści i słów kluczowych pod kątem dotarcia do potencjalnych klientów,
+badanie profilu linków i analizę konkurencji w wyszukiwarce Google. Wszystko po to, aby w dalszej perspektywie móc
+prowadzić efektywny link building i pozycjonować twoją stronę w celu osiągnięcia wysokich pozycji. Zajmuję się zarówno
+pozycjonowaniem stron www B2B, jak i e-commerce. Nie specjalizuję się w pozycjonowaniu lokalnym.
+
+Usług pozycjonowania i optymalizacji nie brakuje na polskim rynku. Wykonawców są tysiące. W każdym pomniejszym mieście
+znajdzie się agencja SEO. Niemniej zawsze decydując się na współpracę trzeba pamiętać o odpowiedniej weryfikacji firmy.
+Agencje te często są de facto agencjami interaktywnymi, które tworzą strony www (mniej lub bardziej fachowo), a do tego
+dosprzedają marketing w social media, reklamę Google Ads czy właśnie SEO.
+
+SEO w 2019 roku
+Nie jestem zwolennikiem pisania o trendach na poszczególne lata, bo to albo mówienie oczywistości albo zaklinanie
+rzeczywistości. W SEO to często wróżenie ze szklanej kuli. Na pewno jednak warto brać pod uwagę szereg czynników
+zmieniających krajobraz marketingu internetowego wokół nas.
+
+Absolutnie nie jest tak, że przychodzi jakiś trend w SEO i należy zaniechać dotychczasowych działań (analizy słów
+kluczowych, optymalizacji treści, technical SEO etc.). Zwykle te nowości są dodatkiem, który pozwala z potencjału strony
+internetowej wycisnąć jeszcze więcej. Myślę, że kluczowe czynniki, które należy brać pod uwagę to:
+
+Wyszukiwanie konwersacyjne (i głosowe) – hasła wpisywane przez użytkowników mogą coraz częściej przybierać formę
+naturalnych pytań (how to… itp.). Tu polecam wykorzystanie Ahrefs Questions, Senuto – Generator Pytań, czy po prostu
+Answer The Public do wyszukiwania tego typu zwrotów i umieszczania ich w treści swoich artykułów.
+Rozbudowa pod kątem topical authority (przy jednoczesnym optymalnym wykorzystaniu dystrybucji page rank na stronie, aby
+nie rozcieńczyć za bardzo mocy linków pozycjonujących na zbyt wiele podstron).
+Rich snippets i SXO – w dobie coraz większej ekspozycji reklam Google Ads (kiedyś AdWords) i widgetów Google, coraz
+większe znaczenie ma przykuwanie uwagi w wynikach wyszukiwania. Dlatego nawet będąc nawet na pierwszej pozycji warto
+zadbać o wygląd snippetów, aby zgarniać parę procent ruchu więcej.
+Optymalizacja pod kątem zaangażowania – redukcja bounce rate z wyników organicznych, zachęcanie użytkownika do sesji
+wieloodsłonowych, wejścia wgłąb serwisu i nie wracania do SERP-ów.
+Dalsza lektura na temat optymalizacji i pozycjonowania
+Jeśli chcesz poszerzać swoją wiedzę na temat pozycjonowania i optymalizacji, czyli szeroko rozumianego SEO, to polecam
+zacząć od następujących tematów, o których pisałem na niniejszym blogu oraz blogu mojej agencji Takaoto:
+
+Artykuły o on-page SEO:
+Rola słów kluczowych w SEO
+Samodzielny audyt SEO z wykorzystaniem Google Search Console
+Analityka za pomocą Google Search Console – nowy zakres danych
+Szybkość ładowania strony a pozycjonowanie i jakość ruchu
+SXO – Search Experience Optimization
+Optymalizacja przy użyciu narzędzia SurferSEO
+Tuzy SEO, czyli pierwsze miejsce w Google w paru krokach
+Jak zdobywać ruch z wyszukiwarki, gdy nikt nie szuka twojej oferty
+SEO dla strony typu one-page / landing page
+Dwell time – dowiedz się co to jest? Czy należy mierzyć? Jak?
+Artykuły o off-page:
+Gdziekolwiek idziesz, cokolwiek robisz – zdobądź tego linka
+Linki z Whitepress – jak się pozycjonować niskim kosztem dzięki artykułom eksperckim
+Analiza konkurencji w SEO
+Guest blogging jako narzędzie SEO
+Page Rank – czy umarł i jakie ma znaczenie dla SEO
+Pozycjonowanie w rozliczeniu za pozycje – czemu nie jest w Twoim interesie i powinieneś o nim zapomnieć
+Czy wybór domeny TLD ma wpływ na SEO?
+Czy firma SEO może usunąć linki po zakończeniu współpracy?
+Anchor text, czyli tekst zakotwiczenia w pozycjonowaniu, a kary za nienaturalne linki
+Marketing szeptany na forach – linki z forów i komentarzy na blogach – jak znaleźć właściwe miejsca?
+SEO PR, czyli 5 prostych taktyk, dzięki którym PR-owcy mogą wspierać SEO
+Artykuły o treściach, współpracy z agencjami i strategii SEO:
+Pozycjonowanie sklepu internetowego oraz Najczęstsze błędy w SEO sklepu internetowego
+Marketing B2B – czemu warto postawić na inbound
+SEO copywriting i content marketing – różnice
+Etapy pozycjonowania serwisu internetowego
+Bezpieczne i legalne pozycjonowanie – czyli jakie?
+Rola marki w SEO
+Pozycjonowanie i optymalizacja dla blogerów, czyli jak pozycjonować blog
+Pozycjonowanie Śląsk – test I
+Pozycjonowanie stron – test II
+Marketing internetowy – test III
+Może cię zainteresować także to obszerne opracowanie tłumaczące w szerszym zakresie, czym jest pozycjonowanie stron, a
+także zawierające wybrane case studies, dzięki którym zrozumiesz, w jaki sposób może przebiegać ten proces: Skuteczne
+pozycjonowanie w Google – zasady, porady i case study.

@@ -1,0 +1,124 @@
+Jak pozycjonować blog? SEO dla bloga krok po kroku
+24 maja 2019
+Początki blogosfery w Polsce sięgają kilkunastu lat wstecz, gdy pierwsze osoby zakładały swoje internetowe pamiętniki na
+darmowych platformach. Od tego czasu wiele się zmieniło – zarówno w kwestii prowadzenia, jak i pozycjonowania blogów w
+Google. Z biegiem lat algorytmy wyszukiwarek stały się bardziej wymagające, utrudniając blogerom uzyskanie dobrych
+pozycji. Jak więc wybić się na szczyty wyników wyszukiwań i zagwarantować sobie pierwsze miejsce w Google? Poniżej
+wyjaśniam w kilku prostych krokach jak pozycjonować swój blog.
+
+SEO dla blogera – jakie efekty daje pozycjonowanie?
+Blogi stanowią świetne źródło informacji i opinii na wszelakie tematy, a ich autorzy są często rozpoznawalnymi
+influencerami w swoich branżach. Grono odbiorców budują nie tylko w social mediach, ale także za pośrednictwem
+wyszukiwarki, zgarniając tym samym pokaźny ruch na swojej stronie. To, jakie efekty może dać poprawna optymalizacja
+wpisów, zależy przede wszystkim od konkurencyjności danej branży. Dla przykładu zaprezentuję wyniki jednego z prywatnych
+blogów.
+
+
+
+pozycjonowanie bloga
+
+
+Powyższy wykres przedstawia liczbę użytkowników pozyskanych z tzw. wyników organicznych na przestrzeni kilku miesięcy od
+momentu założenia bloga. Dzięki optymalizacji i użyciu odpowiednich słów kluczowych, w zaledwie pół roku udało się
+pozyskać pokaźne grono odbiorców, stosując jedynie podstawowe techniki pozycjonowania, które opisałem poniżej.
+
+Pozycjonowanie i optymalizacja bloga w 15 minut!
+Kiedy użytkownik wpisuje w Google zapytanie i kliknie w jeden z wyników, które podrzuci mu wyszukiwarka – oczekuje
+konkretnych, wyczerpujących odpowiedzi, by nie musiał szukać już w innym miejscu. Pozycjonowanie wpisu na blogu zacznij
+zatem od sprawdzenia, czego szukają Twoi potencjalni czytelnicy. W tym przypadku przydatne będą słowa kluczowe z długim
+ogonem (tzw. long-tail keywords), które pozwolą zrozumieć tematykę, jaką powinniśmy podjąć w tekście.
+
+Krok 1: Dobierz odpowiednie słowa kluczowe
+Spróbuj wpisać w wyszukiwarce słowo kluczowe najtrafniej opisujące temat wpisu na blogu. Uzyskasz w ten sposób listę
+artykułów, z którymi przyjdzie Ci konkurować w wynikach organicznych oraz gotowy zestaw fraz kluczowych do
+wykorzystania. Znajdziesz go w podpowiedziach od Google, jak i na samym dole strony, w sekcji “Wyniki podobne do…”.
+
+
+
+słowa kluczowe w pozycjonowaniu bloga
+
+
+Klikając w poszczególne podpowiedzi, otrzymasz kolejne przydatne słowa kluczowe do użycia w tekście. Część z nich będzie
+się powielać, lecz trafią się też nowe, unikalne frazy, którymi możesz wzbogacić swój artykuł, aby użytkownicy mogli
+łatwiej odnaleźć go w Internecie.
+
+
+
+jak dobrać słowa kluczowe do pozycjonowania bloga
+Krok 2: Użyj słów kluczowych w tekście
+Mając już gotowy zestaw fraz, spróbuj wpleść je w treść wpisu, zachowując przy tym jego naturalność. Pamiętaj, że
+docelowym odbiorcą tekstu nie jest robot Google, lecz żywa osoba. Zadbaj, by pozycjonowanie bloga nie zakłóciło odbioru
+i doświadczeń użytkownika na stronie. Słowa kluczowe z długim ogonem rozdziel na osobne wyrazy i umieść je w naturalny
+sposób w takich elementach jak:
+
+nagłówki pierwszego i drugiego poziomu (H1, H2),
+poszczególne akapity i listy wypunktowane,
+podpisy oraz atrybuty alt dla obrazów,
+odnośniki wewnętrzne do innych wpisów na blogu.
+Frazy kluczowe stosuj w formie ścisłej oraz odmienionej. Staraj się zachować umiar – zbyt częste użycie jednego słowa z
+punktu widzenia użytkownika będzie błędnym powtórzeniem, Google natomiast może uznać, że przesadzasz z nasyceniem frazy
+względem całej treści.
+
+Krok 3: Zadbaj o optymalizację elementów technicznych i odpowiednią długość tekstu
+W przypadku każdego tekstu wyróżnić można kilka elementów, o które warto się zatroszczyć przed publikacją.
+Funkcjonowanie robotów indeksujących Google w dużej mierze polega na analizie poszczególnych elementów w tekście. Na ich
+podstawie algorytm wydaje swoistą ocenę, czy dany artykuł będzie wartościowy dla użytkownika. Optymalizując wpis,
+upewnij się, że jego elementy ujęte są w odpowiednich tagach HTML, a sam tekst zachowuje przejrzystą strukturę.
+
+Duże znaczenie ma również jego długość. Zasada “im więcej, tym lepiej” nie zawsze się tutaj sprawdza, dlatego warto
+sprawdzić, czy nasz wpis zawiera odpowiednią liczbę słów w porównaniu do pozostałych artykułów znalezionych na dane
+słowo kluczowe.
+
+Krok 4: Ustaw odpowiednie metadane
+Już za moment będziesz mógł kliknąć przycisk “Opublikuj‘, lecz zanim to zrobisz, pozostała jeszcze jedna istotna rzecz
+do zrobienia. Ustawienie elementów title oraz meta description odegra dużą rolę w pozycjonowaniu Twojego wpisu, dlatego
+warto byś poświęcił temu kilka minut i dobrze zastanowił się, jakie frazy w nich ująć.
+
+Elementy te sugerują, co powinno pojawić się w wynikach wyszukiwania, gdy Google wyświetli Twój wpis. Jeżeli korzystasz
+z systemu zarządzania treścią (CMS) WordPress, możesz zainstalować jedną z wtyczek, które pozwalają edytować metadane, a
+często też posiadają inne opcje pomocne w pozycjonowaniu bloga. Popularną wtyczką jest Yoast SEO, która dodatkowo
+podpowie Ci, co warto zmienić czy ulepszyć w danym artykule.
+
+ustawianie meta danych
+
+
+Zadbaj o to, by zarówno tytuł, jak i opis danego wpisu zawierał frazy kluczowe, które wybrałeś w kroku pierwszym.
+Zachowaj naturalność i zachęć użytkownika do kliknięcia w Twój link. Wypisanie słów kluczowych po przecinku nie pomoże,
+a nawet zaszkodzi pozycjonowaniu. W przypadku blogów, świetnie sprawdzają się tytuły w formie poradnikowej,
+rozpoczynające się od “Jak…” lub też wyliczenia, np. “5 sposobów na…”.
+
+Krok 5: Ustaw przyjazny adres URL
+Jeżeli korzystasz z systemu WordPress, masz możliwość łatwej edycji adresu URL każdego wpisu. Przed publikacją zadbaj o
+to, by adres był przyjazny dla użytkownika, a więc nie zawierał przypadkowych ciągów liczb i liter.
+
+Końcówka adresu w postaci “/blog/post-5467” nie jest zbyt przyjemna dla oka. Niewiele też mówi robotom indeksującym.
+Dużo lepszym rozwiązaniem będzie skonstruowanie przyjaznych adresów URL dla wpisów na blogu, np.:
+
+https://www.grupa-tense.pl/blog/10-podstawowych-zasad-pisania-firmowego-bloga/
+
+Korzystając z WordPressa, możesz za pomocą kilku kliknięć ustawić przyjazne adresy, przechodząc do sekcji Ustawienia ->
+Bezpośrednie odnośniki. Wśród opcji znajdziesz tam m. in. automatyczne konstruowanie odnośnika na podstawie tytułu
+wpisu. Możesz też ustawić własny format URL, używając odpowiednich zmiennych.
+
+wordpress pozycjonowanie bloga
+Krok 6: Linkowanie wewnętrzne
+Pozycjonowanie bloga nie kończy się wraz z opublikowaniem wpisu. Kiedy tekst będzie gotowy, odpowiednio sformatowany i
+nasycony frazami kluczowymi, a metadane uzupełnione, możesz umieścić go na stronie. Nie wylogowuj się jednak z panelu
+zarządzania. Odnajdź starsze, powiązane tematycznie artykuły na swoim blogu i umieść w nich odnośnik do nowego wpisu.
+Linkowanie wewnętrzne pozwala zarówno użytkownikom, jak i robotom wyszukiwarki Google na swobodne poruszanie się
+pomiędzy poszczególnymi podstronami.
+
+Podsumowanie – jak mierzyć efekty pozycjonowania bloga?
+Kiedy nauczysz się, jak pozycjonować swój blog, będziesz potrzebował narzędzi, które pozwolą zmierzyć efekty
+przeprowadzonych działań. Czy SEO dla Twojego bloga działa, wywnioskujesz na podstawie statystyk, które uzyskasz dzięki
+narzędziom takim jak Google Analytics oraz Google Search Console. W kilku prostych krokach, które opisaliśmy na naszym
+blogu, zainstalujesz je na swojej stronie, zyskując dostęp do danych m. in. na temat odsłon poszczególnych wpisów oraz
+ilości kliknięć, jakie zebrały one w Google. Po kilku tygodniach porównaj dane sprzed i po przeprowadzeniu
+optymalizacji.
+
+Wspinaczka na pierwsze pozycje w Google to często mozolna praca, która wymaga cierpliwości i zaangażowania blogera.
+Budując jednak stopniowo swój autorytet w oczach wyszukiwarki, pozycjonowanie kolejnych wpisów będzie łatwiejsze. Czym
+więcej bowiem dobrze zoptymalizowanych, wartościowych treści z Twojego bloga zaindeksuje Google, tym większym zaufaniem
+go obdarzy. Postępując zgodnie ze wskazówkami, które opisałem powyżej, masz szansę zbudować duże grono czytelników
+pozyskanych z naturalnych wyników wyszukiwań. Zadbaj więc, by optymalizacja Twojego bloga była na jak najwyższym
+poziomie, a treść wpisów na tyle merytoryczna, by zachęcić czytelników do powrotu.

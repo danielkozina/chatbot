@@ -1,0 +1,148 @@
+Kiedy moja strona będzie w TOP10, czyli ile trwa pozycjonowanie? Wypozycjonowanie strony lub sklepu internetowego na
+konkurencyjne słowa kluczowe może zająć naprawdę sporo czasu, dlatego też osoby, które są zainteresowane
+pozycjonowaniem, powinny uzbroić się w cierpliwość. Jeżeli jakaś agencja SEO obiecuje wysokie pozycje w wyszukiwarce
+Google w bardzo krótkim czasie, to istnieje duże prawdopodobieństwo, że korzysta ona z "black hat SEO". Z praktycznego
+punktu widzenia oznacza to, że nasza strona może szybko zostać ukarana filtrem albo banem.
+
+Ile trwa pozycjonowanie strony?
+Divider
+Czas wypozycjonowania naszej strony na wybrane słowa kluczowe zależy od bardzo wielu elementów, dlatego też bardzo
+trudno jest odpowiedzieć na pytanie - ile trwa seo? Jak powszechnie wiadomo największy wpływ na czas wypozycjonowania
+naszej witryny ma przede wszystkim konkurencyjność wybranych fraz. Są branże, w których można szybko się wypromować, jak
+i również są branże, w których mnóstwo firm pozycjonuje się na wybrane słowa kluczowe, dlatego też wyprzedzenie
+wszystkich konkurentów musi nieco potrwać. Warto wspomnieć również i o tym, że zdecydowanie szybciej pozycjonują się
+frazy lokalne niż globalne.
+
+
+
+Od czego zależy prędkość wypozycjonowania mojej strony?
+Divider
+Na prędkość wypozycjonowania strony duży wpływ ma profesjonalizm agencji SEO. Zatrudniając doświadczonych pozycjonerów
+mamy pewność, że w bezpieczny i szybki sposób trafimy na wysokie pozycje w wyszukiwarce Google. Pamiętać należy również
+i o tym, że na rynku jest wiele firm, które specjalizują się w pozycjonowaniu w określonej branży. Można znaleźć
+specjalistów, którzy zajmują się wyłącznie pozycjonowaniem stron związanych z medycyną, deweloperką albo branżą
+samochodową.
+
+Historia strony ma znaczenie
+Divider
+Mało osób zdaje sobie sprawę z tego, że na prędkość wypozycjonowania strony duży wpływ ma także jej historia. Jeżeli
+nasza witryna pozycjonowana była wcześniej nieetycznymi metodami, to odbudowanie do niej zaufania może sporo kosztować.
+Pozbycie się niskiej jakości linków zewnętrznych i usunięcie ewentualnych filtrów algorytmicznych może znacząco wydłużyć
+pozycjonowanie witryny. Z drugiej strony Google promuje domeny z długą historią, dlatego też teoretycznie łatwiej i
+szybciej jest wypozycjonować stare domeny, niż nowo zarejestrowane.
+
+Utrzymanie wysokich pozycji
+Divider
+Każdy kto zajmuje się pozycjonowaniem bardzo dobrze zdaje sobie sprawę z tego, że zdobycie wysokich pozycji to dopiero
+połowa drogi do sukcesu. Bardzo ważne jest również to, aby je utrzymać przez długi okres czasu. Algorytmy Google cały
+czas się zmieniają, dlatego też nieustannie należy pracować nad swoimi stronami. Pamiętać należy również i o tym, że
+nasza konkurencja nie śpi, dlatego też zaprzestanie pozycjonowania może spowodować wyraźne spadki w rankingu Google.
+
+
+
+Jak przyśpieszyć pozycjonowanie?
+Divider
+Jeżeli uruchomimy nową stronę albo dodamy wartościowe treści, to warto skorzystać z Google Search Console, aby
+przyśpieszyć indeksację. Dobrym pomysłem jest również przygotowanie mapy strony. Jest to idealny wybór przede wszystkim
+dla tych osób, które posiadają sklepy internetowe z dużą ilością podstron do zaindeksowania. Mało osób zdaje sobie
+sprawę również z tego, że prędkość indeksowania swojej strony można poprawić poprzez linkowanie wewnętrzne. Warto
+postawić na dział aktualności i nowe produkty, które powinny znaleźć się na pierwszej stronie. Doskonale sprawdzi się
+również wielopoziomowe menu oraz linki sitewidowe do najważniejszych podstron. Warto zastanowić się również nad
+wdrożeniem danych strukturalnych.
+
+Strony RWD
+Divider
+Responsywny szablon stron jest jednym z coraz ważniejszych czynników rankingowych, dlatego też warto zadbać o to, aby
+nasze witryny prawidłowo wyświetlały się na wszystkich urządzeniach mobilnych. Brak mobilnej wersji strony albo szablonu
+RWD może nie tylko wydłużyć pozycjonowanie strony, a nawet obniżyć pozycje w wynikach organicznych. Pamiętać należy
+również i o tym, że pozycje w wynikach mobilnych mogą nieco różnić się od tych na urządzeniach desktopowych. Dzięki
+responsywnej stronie można pozyskać wielu dodatkowych klientów, którzy korzystają z urządzeń mobilnych. Aby sprawdzić
+czy nasza witryna prawidłowo wyświetla się na telefonach i tabletach warto skorzystać z "testu optymalizacji mobilnej".
+
+Szybkość ładowania strony
+Divider
+Aby przyśpieszyć pozycjonowanie strony warto najpierw usprawnić jej ładowanie, a dokładniej mówiąc skrócić czas
+ładowania się witryny. Szybkość ładowania jest jednym z kolejnych elementów, który wpływa na pozycje w wynikach Google.
+Właściciele urządzeń mobilnych nie zawsze mają dostęp do szerokopasmowej sieci, dlatego też warto zadbać o to, aby nasze
+strony szybko się ładowały. Przy pomocy narzędzia PageSpeed Insights można błyskawicznie sprawdzić jak nasze strony
+oceniane są przez Google właśnie pod katem ładowania się strony. Dzięki PageSpeed Insights można otrzymać wiele cennych
+podpowiedzi co poprawić na stronie, aby przyśpieszyć jej pozycjonowanie.
+
+Bezpieczeństwo witryny i SSL
+Divider
+Jeżeli nasz sklep albo serwis udostępnia ważne dane, to zadbać należy o bezpieczeństwo. Dla Google bezpieczeństwo
+użytkowników jest priorytetem, dlatego też witryny z SSL są lepiej promowane. Stosowanie popularnego protokołu HTTPS
+może nie tylko przyśpieszyć pozycjonowanie strony, ale również pozytywnie wpłynąć na jej pozycje. Jeżeli wdrażamy
+dopiero SSL, to pamiętać należy o przekierowaniu użytkowników ze starej wersji na nową.
+
+
+
+Region ma znaczenie
+Divider
+Na to ile trwa pozycjonowanie wpływ ma również kraj. Nieco inaczej wygląda pozycjonowanie w Polsce, a nieco inaczej w
+USA albo Niemczech. Osoby, które chcą pozycjonować swoje strony w kilku różnych państwach powinny rozejrzeć się za
+agencjami SEO, które specjalizują się właśnie w tego typu usługach. Bez dobrej znajomości europejskiego i światowego
+rynku SEO czas wypozycjonowania strony może się wydłużyć.
+
+Zmiany algorytmów Google
+Divider
+Dla większości agencji SEO największą zmorą są oczywiście zmiany algorytmów Google. W dużej mierze to właśnie z powodu
+częstych zmian algorytmu bardzo trudno jest odpowiedzieć na pytanie ile trwa SEO. Nawet najlepsza strategia
+pozycjonerska po zmianach algorytmu Google może nie przynieść satysfakcjonujących wyników. Warto korzystać z usług
+takich agencji, które na bieżąco podążają za wszelkimi nowinkami w SEO i nieustannie szkolą swoich pracowników.
+
+Pozyskiwanie linków zewnętrznych
+Divider
+W pozycjonowaniu, oprócz porządnej optymalizacji witryny, kluczem do sukcesu jest również pozyskiwanie mocnych linków
+zewnętrznych. Przy mocno konkurencyjnych frazach trzeba oczywiście pozyskać dużą ilość wartościowych linków. Niestety
+nie można tego zrobić w bardzo krótkim czasie, ponieważ w ten sposób można narazić się na filtr. Na lepszej pozycji są
+starsze domeny, które przez lata budowały swoje zaufanie zdobywając linki z wartościowych źródeł. W przypadku nowych
+stron należy zachować dużą ostrożność, aby nie narazić się na kary. W pierwszej kolejności warto pozyskiwać takie linki,
+które nie tylko poprawią nasze pozycje w wyszukiwarce Google, ale również pomogą pozyskać nowych użytkowników.
+
+
+
+Ile w rzeczywistości trwa SEO?
+Divider
+Jak wspomniano powyżej, istnieje bardzo wiele różnych czynników, które mają bezpośredni wpływ na to, jak długo trwa
+pozycjonowanie. W przypadku prostych słów kluczowych pierwsze zmiany można zaobserwować już po 2 tygodniach. Zazwyczaj
+wystarczy porządna optymalizacja tytułów i metatagów, dzięki którym można pojawiać się na wybrane słowa kluczowe. Przy
+frazach regionalnych, gdzie nie ma dużej konkurencyjności, można wskoczyć na czołowe pozycje wyłącznie dzięki
+wartościowym tekstom, bez potrzeby pozyskiwania dużej ilości linków zewnętrznych. Problemy pojawiają się dopiero wtedy,
+gdy w grę wchodzą mocno konkurencyjne słowa kluczowe. Tutaj na satysfakcjonujące efekty niekiedy trzeba poczekać nawet
+kilkanaście miesięcy. W obu przypadkach systematyczna praca i cierpliwość jest kluczem do sukcesu.
+
+Nie tylko link building
+Divider
+Jeżeli chodzi o działania na zewnątrz witryny, to warto postawić nie tylko na mocne linki zewnętrze. W dzisiejszych
+czasach bardzo dużą rolę odgrywa również działanie w mediach społecznościowych. W wielu branżach opłaca się założyć blog
+tematyczny, dzięki któremu będzie można zwrócić uwagę potencjalnych użytkowników i poprawić linkowanie wewnętrzne. Przy
+bardzo konkurencyjnych frazach kluczowych warto pomyśleć również o postawieniu własnego zaplecza. Niestety zbudowanie
+porządnego zaplecza SEO zajmuje sporo czasu i pieniędzy, dlatego jest to rozwiązanie jedynie dla tych osób, które myślą
+długofalowo o swoim biznesie.
+
+Pozycjonownanie za efekt czy abonament?
+Divider
+Firmy SEO rozliczają się ze swoimi klientami za efekt albo w abonamencie. W tym pierwszym przypadku należy pamiętać o
+tym, że agencji SEO zależeć będzie na jak najszybszym wypozycjonowaniu naszej strony do top 10, co oczywiście nie zawsze
+będzie dla nas najlepszym wyborem. Jak wspomniano powyżej, przy dość agresywnym pozycjonowaniu można narazić się na
+filtr lub ban. Bezpieczniejszym rozwiązaniem jest zatrudnienie doświadczonej firmy, która oferuje abonament. Na rynku
+jest wiele firm, które łączą obie formy rozliczenia, dzięki czemu płaci się za abonament + premie za efekt.
+
+
+Czy warto postawić na pozycjonowanie?
+Divider
+Pozycjonowanie w dzisiejszych czasach jest najskuteczniejszą formą promocji, dlatego też warto postawić na SEO nawet
+wtedy, gdy na satysfakcjonujące efekty trzeba będzie poczekać nawet kilka miesięcy. Jakie korzyści daje SEO:
+
+- zwiększenie sprzedaży oferowanych towarów i usług
+- poprawienie pozytywnego wizerunku swojej marki
+- poznanie potrzeb swoich potencjalnych klientów
+- poprawienie komunikacji z klientami
+
+JAK BŁYSKAWICZNIE POJAWIĆ SIĘ NA PIERWSZEJ STRONIE WYNIKÓW GOOGLE?
+Osoby, które nie chcą czekać tygodniami na wysokie pozycje w wynikach organicznych, mogą oczywiście skorzystać z
+kampanii linków sponsorowanych. Dzięki Ads można pojawić się na pierwszej stronie wyników Google od razu po uruchomieniu
+nowej kampanii. Jest to doskonała propozycja przede wszystkim dla tych osób, które prowadzą sezonowy biznes. Dzięki Ads
+można dowiedzieć się również, czy wybrane słowa kluczowe w rzeczywistości generują ruch i czy warto na nie się
+pozycjonować w organikach.

@@ -1,0 +1,24 @@
+Nowa aktualizacja danych strukturalnych wskazuje nowy, silny trend w SEO
+Narzędzie służące do testowania danych strukturalnych zostało zaktualizowane 1 maja. Zmiany dotyczą przede wszystkim
+branży kulinarnej. Kilka dni później, 3 maja na blogu dla webmasterów pojawiła się informacja o nowych możliwościach dla
+stron z przepisami kulinarnymi. Zachęca się w nim do przesyłania sformatowanych receptur do Asystenta Google. Autor
+artykułu, Earl J. Wagner, inżynier oprogramowania, przekonuje o zaletach optymalizacji tego typu witryn dla wyszukiwania
+głosowego.
+
+4 ważne właściwości danych strukturalnych dla stron kulinarnych:
+Kategoria - wskazanie rodzaju posiłku, np. deser czy danie główne
+Kuchnia - dotyczy rodzaju czy regionu kuchni, np. śródziemnomorska czy azjatycka
+Wideo - dodanie tego wskaźnika pokazuje nacisk na dodawanie większej ilości treści z filmami
+Słowa kluczowe - ta właściwość budzi największe kontrowersje, Metatagi słów kluczowych z uwagi na największą możliwość
+nadużyć, zostały w ostatnich latach zmarginalizowane.Dlatego tym bardziej dziwi taka rekomendacja Google.
+Asystent Google i Google Home zmienią strategie SEO?
+Wirtualni asystenci nadal są w Polsce mało popularni ze względu na brak tego typu urządzeń obsługujących język polski. W
+krajach anglojęzycznych popyt na nie stale rośnie i ten trend został szybko zauważony przez Google. Ostatnim krokiem w
+stronę wyszukiwania głosowego jest umożliwienie zakupu biletów kinowych bezpośrednio przez Asystenta Google. Wg VoiceLab
+ilość urządzeń głosowych na rynku amerykańskim zwiększyła się o ponad 312% w okresie między 2016 a 2017 rokiem.
+
+Czy wpłynie to realnie na polskie strony? Póki nie zostaną wprowadzone na rynek urządzenia przystosowane do języka
+polskiego, raczej nie można oczekiwać rewolucji. Jest to jednak ważna informacja dla seowców pracujących na rynku
+zagranicznym. Także rodzime firmy mające aspiracje międzynarodowe powinny zastanowić się nad przemyśleniem obecnej
+strategii SEO. Możliwe, że już niedługo optymalizacja pod wyszukiwanie głosowe będzie równie istotna, jak obecnie
+dostosowanie do urządzeń mobilnych.

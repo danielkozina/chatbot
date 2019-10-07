@@ -1,0 +1,174 @@
+Jak połączyć SEO z UX/UI? 6 złotych zasad user experience, które sprawdzają się w SEO
+UX i UI, czyli user experience i user interface stają się coraz popularniejsze. Strona ma już nie tylko być łatwa do
+znalezienia w wyszukiwarce, ale też zachęcać do pozostania na niej jak najdłużej i budowania pozytywnych wrażeń. Brzmi
+to w pierwszej chwili jak coś pożądanego, ale niekoniecznie związanego z optymalizacją. Nic bardziej mylnego. Zasady SEO
+i UX/UI w wielu przypadkach są ze sobą powiązane.
+
+Jedną z logicznych, lecz nie zawsze stosowanych prawd SEO jest to, że działania, które sprowadzają użytkownika na
+stronę, nie mogą go razić, kiedy na nią wejdzie. Bezładne chmury tagów czy przeładowanie słowami kluczowymi w mianowniku
+to najbardziej rażące, ale nie jedyne „odstraszacze”. Pomijam już fakt, że dobry specjalista SEO nie stosuje takich
+metod (pamiętajmy, że Google uwzględnia polską gramatykę, a nowy Koliber ułatwia wyszukiwanie kontekstowe). Nie chodzi o
+to, by stać się mistrzem każdego aspektu strony www. Chciałbym jednak zwrócić uwagę, że zamiast tracić czas na spory z
+ux designerami, copywriterami czy… klientami, lepiej poszukać wspólnej płaszczyzny. Co z tego, że podniesiesz pozycję,
+jeżeli współczynnik konwersji stoi w miejscu lub spada?
+
+Dużo dobrych praktyk optymalizacji strony ma swoje odniesienie w innych aspektach tworzenia skutecznej strony
+internetowej. Niektóre z nich nie będą może zaskoczeniem (proste adresy URL — wiedziałeś, że są zalecane także przez
+UX/UI?). Mam jednak nadzieję, że kilka pomysłów zainspiruje Cię do nowych działań.
+
+
+
+Zrób dobre pierwsze wrażenie
+
+Responsywność, głupcze!
+
+Czas to pieniądz — strona zawsze może ładować się szybciej
+
+Dbaj o nawigację — architektura informacji
+
+Sprytne formatowanie dłuższych tekstów
+
+Nie zakładaj — testuj!
+
+
+
+1. Zrób dobre pierwsze wrażenie
+User experience to budowanie pozytywnych doświadczeń użytkownika. W kontekście UX będzie to zawsze praca w obrębie
+witryny, jednak seowcy nie mają takich ograniczeń. Budować zaufanie do strony możemy budować jeszcze zanim użytkownik
+kliknie link. Warto wyciągnąć to, co najlepsze z praktyk white hat seo, influencer marketingu czy nawet e-PR.
+Najprostszym w realizacji patentem jest optymalizacja tagu title i meta description pod kątem ich atrakcyjności dla
+użytkownika.
+
+
+
+
+
+Pomysły na budowanie pozytywnych skojarzeń z witryną:
+przemyślana strategia social media
+
+umieszczanie linków na znanych stronach
+
+angażowanie się w kampanie influencer marketingowe
+
+monitoring opinii na temat marki
+
+buzz marketing w duchu WOMMA
+
+
+
+Czytaj więcej:
+
+Oficjalna strona WOMMA https://womma.org/ethics-and-big-data-collection/
+
+Polskie wytyczne marketingu szeptanego od iab https://www.iab.org.pl/wp-content/uploads/2014/01/dobre_praktyki_womm.pdf
+
+
+
+2. Responsywność !
+Ponad 50% wszystkich wejść na stronę to kanał mobilny. Ignorowanie potrzeb użytkowników przeglądających witrynę na
+mniejszym ekranie prowadzi do spadku pozycji. Strona przystosowana do smartfona czy tabletu to już nie dodatkowy atut, a
+obowiązek. Z punktu widzenia UX strona musi być w pełni responsywna, by użytkownik po prostu od razu jej nie zamknął.
+Proste.
+
+
+
+By strona była responsywna i przyjemna w użytkowaniu, powinna:
+szybko się ładować
+
+zawierać tekst o odpowiedniej wielkości
+
+posiadać duże i oddalone od siebie przyciski
+
+łatwo się scrollować
+
+podawać kluczowe informacje u góry strony
+
+wyeliminować wszystkie niepotrzebne pop-upy i wyskakujące okienka
+
+
+
+Czytaj więcej:
+
+Raport We Are Social — Digital in 2017 Global Overview
+
+https://www.slideshare.net/wearesocialsg/digital-in-2017-global-overview
+
+
+
+3. Czas to pieniądz — strona zawsze może ładować się szybciej
+To, że czas ładowania się strony jest czynnikiem rankingowym, wiemy od 2010 roku. Pamiętajmy jednak, że ten czynnik ma
+swoje uzasadnienie w preferencjach samych użytkowników. Nikt nie lubi czekać na zbyt wolno ładującą się stronę. Jeżeli
+nie zadbasz o ten aspekt, musisz liczyć się z konsekwencjami — najważniejszą z nich jest wysoki współczynnik odrzuceń.
+Szybkość strony jest szczególnie ważna w kontekście responsywności witryny. Co z tego, że poszczególne elementy
+wyglądają dobrze, jeżeli użytkownik porzuca stronę, zanim na dobre się wyświetlą?
+
+
+
+Czytaj więcej:
+
+Ogłoszenie szybkości strony czynnikiem rankingowym — archiwalny wpis Google Webmaster Central Blog
+https://webmasters.googleblog.com/2010/04/using-site-speed-in-web-search-ranking.html
+
+Case study GT Metrix https://gtmetrix.com/blog/rankpay-a-site-speed-case-study/
+
+4. Dbaj o nawigację — architektura informacji
+Przejrzysta nawigacja na stronie z punktu widzenia UX jest kluczowa. Użytkownik musi wiedzieć, gdzie się obecnie
+znajduje i jak ma znaleźć pożądane informacje. Jednym ze sposobów na ułatwienie nawigacji jest zastosowanie breadcrumbs
+(ang. okruszki chleba). Breadcrumbs to nie jedyny sposób na nawigację, lecz niezwykle wartościowy pod kątem SEO — pomaga
+robotom w indeksowaniu witryny. Co ciekawe, popularna lupka nie daje gwarancji, że użytkownik szybko znajdzie wszystko,
+czego potrzebuje. Badania wskazują jednoznacznie, że większość z nas używa jej dopiero wtedy, gdy zawiedzie struktura
+linków na stronie.
+
+
+
+Czytaj więcej:
+
+Are There Users Who Always Search? https://articles.uie.com/always_search/
+
+5. Sprytne formatowanie dłuższych tekstów
+Tylko na pierwszy rzut oka nie ma to większego związku z SEO. W praktyce jednak zachowanie ludzkiego oka podczas
+przeglądania strony internetowej wymusza układ tekstu zawierający dużą ilość nagłówków, list i wytłuszczeń. Odpowiednio
+sformatowany content pozwala lepiej skupić się na treści. Dlatego tak ważne jest umiejętne używanie nagłówków. Ich rola
+nie ogranicza się jedynie do użycia pożądanej frazy jako H1 czy H2. Zachęcają one także użytkownika do zapoznania się z
+treścią, tak podzielony tekst wydaje się bardziej przyjazny w odbiorze. Nagłówek to też sposób na zapamiętanie głównej
+myśli akapitu. Morał: content powinien być tworzony przez osoby znające zasady webwritingu.
+
+Poza nagłówkami, w skupieniu się na tekście pomagają:
+wydzielone bloki tekstu i ramki, najlepiej w innym kolorze
+
+listy i wypunktowania
+
+wytłuszczenia
+
+technika odwróconej piramidy
+
+zwięzły styl
+
+
+
+Czytaj więcej na ten temat:
+
+Myth #1: People read on the web http://uxmyths.com/post/647473628/myth-people-read-on-the-web
+
+How Users Read on the Web https://www.nngroup.com/articles/how-users-read-on-the-web/
+
+
+
+
+
+
+
+6. Nie zakładaj — testuj!
+Jedną z najważniejszych zasad UX, która może z powodzeniem zostać zastosowana w SEO, jest testowanie nowych rozwiązań.
+Wśród projektantów popularne są stwierdzenia, że:
+
+Użytkownicy nie zachowują się racjonalnie
+
+Użytkownicy będą zachowywać się tak, jak przewidujesz
+
+Użytkownicy nie dokonują racjonalnych wyborów
+
+Wszystko to sprowadza się do tego, by pamiętać, że optymalizujesz stronę nie tylko dla algorytmu, ale też dla zwykłego
+człowieka. Jako nieco bardziej zaawansowany użytkownik zawsze będziesz miał spaczoną perspektywę i warto sobie to
+uświadomić. Opieranie się wyłącznie na własnych założeniach zawsze będzie loterią. Dlatego także w SEO powinniśmy
+testować różne strategie i rozwiązania czy testy A/B.

@@ -1,0 +1,484 @@
+POZYCJONOWANIE STRON INTERNETOWYCH W GOOGLE – CZYM JEST I JAK WYKONAĆ JE SKUTECZNIE?
+17 KWIETNIA 2019MAGDALENA KUBASIEWICZ & MARCIN KĘSKA SEO/SEM
+Pozycjonowanie stron to jedna z najskuteczniejszych form marketingu internetowego. Na czym dokładnie polegają działania
+SEO, dlaczego warto je prowadzić, co wpływa na miejsce strony w wynikach wyszukiwania? Nasz artykuł odpowiada na te i
+inne pytania dotyczące tego zagadnienia, szczególnie w wyszukiwarce Google.
+
+Banner związany z pozycjonowaniem stron w Google
+
+Spis treści:
+Co wiąże się z pozycjonowaniem strony? Czym jest SEO?
+Czym SEO/Pozycjonowanie stron różni się od SEM?
+Dlaczego warto być wysoko w Google?
+Jakie korzyści przynosi pozycjonowanie stron wysoka widoczność w Google?
+Jakie strony można pozycjonować?
+Czym są wyniki wyszukiwania Google?
+Ile ruchu mogą przynieść strony w zależności od pozycji w Google?
+Co wpływa na pozycjonowanie strony i widoczność witryny w wynikach wyszukiwania Google?
+Zawartość stron
+Linki zewnętrzne do stron
+Optymalizacja stron
+Jak wygląda sam proces, czyli jak samemu pozycjonować stronę?
+Opracowanie strategii SEO
+Co powinna zawierać strategia, aby pozycjonowanie stron było skuteczne?
+Optymalizacja stron, czyli SEO optymalizacja
+Od czego zależy dobór elementów do poprawienia?
+Co jeszcze jest ważne?
+Czy każda strona musi zostać zaindeksowana w Google?
+Z jakich narzędzi warto skorzystać?
+Optymalizacja treści na stronie internetowej
+Link – building, czyli pozyskiwanie linków przychodzących
+Rozbudowa tekstów
+Analiza wyników SEO
+Ile kosztuje pozycjonowanie stron, a ile pozycjonowanie sklepu internetowego? Czyli kilka słów o cenniku
+Z jakich elementów składa się budżet na pozycjonowanie stron?
+Czy pozycjonowanie stron za 200 zł ma sens? Czy taka oferta da dobry wynik?
+Jak osiągnąć sukces, czyli jak wygląda dobre pozycjonowanie stron/SEO?
+Czy pozycjonowanie stron internetowych jest niezbędne?
+CO WIĄŻE SIĘ Z POZYCJONOWANIEM STRONY? CZYM JEST SEO?
+Pozycjonowaniem nazywamy pełen zestaw czynności marketingu internetowego, podejmowanych w celu zapewnienia witrynie jak
+najlepszej widoczności w naturalnych wynikach wyszukiwania w wyszukiwarkach internetowych np. Google. To tyle jeśli
+chodzi o formułkę w encyklopedii. Innymi słowy pozycjonowanie stron to sposób na to, by wyświetlać się temu komu trzeba
+i to jak najwyżej 🙂 Aby uzyskać wysoką ilość ruchu z Google konieczne jest podjęcie działań zarówno w obrębie samej
+witryny (on-site), jak i na zewnątrz (off-site). Dobre wykonane to często znacznie lepsza rozpoznawalność marki w
+Internecie.
+
+W Polsce 97% zapytań kierowanych jest do wyszukiwarki Google, zatem dość często pozycjonowanie stron domyślnie ogranicza
+się tylko do tej wyszukiwarki internetowej.
+
+CZYM SEO/POZYCJONOWANIE STRON RÓŻNI SIĘ OD SEM?
+SEO/pozycjonowanie strony to nie to samo co SEM (ang. Search Engine Marketing, marketing internetowy w wyszukiwarce). To
+drugie pojęcie jest terminem szerszym, zawierającym w sobie również SEO, ale także prowadzenie kampanii PPC (ang. Pay
+Per Click, popularne linki sponsorowane) w wyszukiwarce. Często pojęcia SEO i SEM są (mylnie!) używane zamiennie, przez
+co część działań niepoprawnie postrzega się jako SEO czy pozycjonowanie stron – na przykład kampanie Google Ads (dawniej
+Google Adwords). W istocie to część składowa SEM, ale już nie SEO.
+
+DLACZEGO WARTO BYĆ WYSOKO W GOOGLE?
+W 2017 roku z Internetu przynajmniej raz dziennie korzystało ponad 72,7% Polaków (źródło: Raport IAB Polska, Internet
+2017/2018). Ponad 90% z nich posługiwało się przy tym wyszukiwarką Google. W Polsce Google właściwie nie ma konkurencji:
+na przykład stosunkowo popularne za granicą Yahoo w naszym kraju jest wykorzystywane przez mniej niż 2% internautów.
+(źródło: http://gs.statcounter.com/) Bezprecedensowa popularność Google sprawia, że w Polsce witryny optymalizuje się
+przede wszystkim pod kontem tej wyszukiwarki.
+
+Wykres popularności wyszukiwarki Google w Polsce
+
+Ilość ruchu na stronie zależy od jej pozycji wśród innych wyników wyszukiwania. Im wyżej znajdziesz się w wynikach
+wyświetlanych po wpisaniu najważniejszych dla Twojego biznesu wyrażeń kluczowych (inaczej fraz oraz im więcej ich
+będzie) tym więcej Internautów przejdzie z wyszukiwarki na Twoją stronę www. Dzięki temu potencjalnie zwiększy się
+zasięg strony, świadomość marki oraz sprzedaż produktów i usług. Pozycjonowanie strony to działanie, które przynosi
+wiele korzyści.
+
+JAKIE KORZYŚCI PRZYNOSI POZYCJONOWANIE STRON WYSOKA WIDOCZNOŚĆ W GOOGLE?
+Podstawowa korzyść, jaką można odnieść dzięki dobrej widoczności stron w wyszukiwarce, to przyciągnięcie na stronę
+większej liczby użytkowników, potencjalnie zainteresowanych naszą ofertą. To z kolei sprzyja osiągnięciu celów
+biznesowych: przede wszystkim zwiększeniu sprzedaży oraz pozyskiwaniu leadów sprzedażowych.
+
+Drugą korzyścią jaką przynosi pozycjonowanie strony jest niewątpliwie zwiększenie zaufania i świadomości marki. Dzięki
+zajęciu pierwszego miejsca w wynikach wyszukiwania ocenę jakości produktów i usług, które oferuje firma będzie wyższa
+oraz wyróżni ją na tle konkurencji.
+
+Pozycjonowanie stron w Google przynosi znacznie więcej korzyści (nasz artykuł wymienia tylko 3 naszym zadniem
+najważniejsze):
+
+pozycjonowanie to dotarcie do idealnej grupy docelowej w czasie, gdy szuka artykułu, produktu i usługi, które oferujesz
+pozycjonowanie to reklama wyświetlana jest przez 24 godziny na dobę/7 dni w tygodniu
+pozycjonowanie to oszczędności – koszt dotarcia do klienta jest bardzo niski, a w długofalowej perspektywie przynosi
+największy zwrot z inwestycji w reklamę
+JAKIE STRONY MOŻNA POZYCJONOWAĆ?
+Odpowiedź na to pytanie jest prosta – wszystkie. Zawsze warto troszczyć się o to, by strona była jak najlepiej oceniana
+przez Google (oraz przez użytkowników). Dzięki Google pozyskasz więcej ruchu na niej. W zależności od rodzaju stron
+różne są jednak zakresy działań SEO, jakie warto podjąć, a więc pozycjonowanie stron może wyglądać inaczej.
+
+Jeśli prowadzimy bloga na przykład na temat książek, pozycjonowanie często prowadzone jest na własną rękę oraz ograniczą
+się przede wszystkim do tworzenia wartościowej treści (najlepiej takiej, który zechcą podlinkować inni).
+
+Bardziej profesjonalną działalność SEO warto zlecać przede wszystkim tam, gdzie lepsza pozycja w wynikach wyszukiwania
+oznacza większy zarobek. Dotyczy to więc między innymi stron firmowych, sklepów internetowych (odpowiednia ilość linków
+przychodzących i indywidualne przygotowany artykuł lu opis produktu mogą zdziałać cuda!), serwisów aukcyjnych,
+porównywarek cenowych, serwisów informacyjnych, portali ogłoszeniowych i wielu innych.
+
+CZYM SĄ WYNIKI WYSZUKIWANIA GOOGLE?
+Google wybiera wyniki w zależności od zapytania – tak, by jak najlepiej dopasować listę prezentowanych stron (i
+informacji) do potrzeb użytkownika. Nawet niewielkie zmiany w treści zapytania (czyli tego, co wpisujemy w okienko
+wyszukiwania) dokonuje zmiany stron lub pozycji.
+
+Wyniki mogą być również różne w zależności od naszej lokalizacji: jeśli wpiszemy hasło „dentysta” przebywając w
+Krakowie, Google zasugeruje nam inne strony, niż gdybyśmy przebywali w Warszawie. Jeśli jednak przebywamy w Krakowie, a
+interesuje nas dentysta w Warszawie, bo tam właśnie się wkrótce wybieramy – wystarczy wpisać „dentysta Warszawa” (i
+otrzymany podobną listę do tej, jaką zobaczyłby mieszkaniec Warszawy). Taka lokalizacja wyników sprawia, że możemy mówić
+o dwóch rodzajach: pozycjonowaniu lokalnym (pod kątem osób poszukujących usług/produktów jedynie na konkretnym obszarze)
+oraz pozycjonowaniu globalnym (pod kątem osób z większego obszaru – na przykład całego kraju). To rozróżnienie jest
+ważne, ponieważ gdy prowadzimy biznes lokalny (na przykład sieć restauracji działających wyłącznie w Warszawie i
+Krakowie) będzie nas interesować przede wszystkim zdobywanie klientów przebywających na określonym obszarze.
+
+Same wyniki wyszukiwania (ang. SERP – Search Engine Result Page) dzielą się z kolei na dwie kategorie – płatne (a więc
+reklamy Google Ads, definiowane dla tych fraz kluczowych) oraz wyniki naturalne. Wszystkie powyższe kwestie opisze
+dokładniej nasz artykuł na podstawie wyszukiwania na hasło „buty”, którego pozycjonowanie jest obecnie bardzo trudne.
+
+Wyniki wyszukiwania Google dla zapytania
+
+Pierwsze wyniki, które pokazuje nam Google na hasło „buty” to wyniki płatne (sponsorowane). Oznacza to, że danej stronie
+niekoniecznie prowadzono skuteczne działania SEO pod kątem słowa kluczowego „buty”, ale ma uruchomioną kampanię
+reklamową Google Ads, mającą wyświetlać się użytkownikom, wpisującym odpowiednie hasło w wyszukiwarce. Za takie reklamy
+płacą w tym przypadku licząc od pierwszej pozycji sklepy internetowe eobuwie.pl oraz born2be.pl czy zalando.pl).
+
+Wyniki płatne wyświetlają się zwykle na górze albo na dole i poza postacią tekstową mogą przyjąć również postać
+niewielkich grafik – na przykład prezentujących określone produkty (wraz z ich ceną).
+
+Pierwszy wynik naturalny – top1 na hasło „buty” – to sklep Renee. W wyszukiwarce Google uznało więc tą witrynę za
+najlepiej odpowiadające na potrzebę użytkownika, który wpisuje do wyszukiwarki bardzo ogólne słowo kluczowe „buty”
+(pozycjonowanie tej strony jest dla danego słowa najbardziej skuteczne).
+
+Wyniki wyszukiwania Google dla
+
+Modyfikacja wyszukiwania na hasło „buty sportowe damskie” spowoduje zmianę wyników wyszukiwania i inny zestaw stron.
+Wciąż poszukujemy butów, ale konkretnego typu – Google wyświetli więc w pierwszej kolejności strony, które uzna za
+najlepiej pasujące do tego zawężonego hasła.
+
+Tym razem wyświetlają się reklamy sklepów born2be, eobuwie oraz sklepmartes. Z kolei w top3 pozycji znalazły się strony
+kategorii butów w Zalando, Domodi oraz Allegro – duże sklepy internetowe z podstronami optymalizowanymi pod kątem
+konkretnie tego zapytania użytkownika wyszukiwarki Google.
+
+Wyniki wyszukiwania Google dla hasła
+
+Jeszcze inaczej będą przedstawiały się wyniki wyszukiwań lokalnych. Jeśli chcemy kupić buty sportowe damskie w
+określonej lokalizacji, na przykład Krakowie, po wpisania „sportowe buty damskie Kraków”, Google zaprezentuje nam na
+najwyższej pozycji strony najlepiej pasujące do tego hasła, a więc zapewne: działające lokalnie (pozycjonowanie lokalne,
+SEO lokalne) i z dużym prawdopodobieństwem najlepiej odpowiadające na potrzeby użytkownika z tej miejscowości.
+
+Warto zwrócić uwagę, że w przypadku wyników lokalnych, Google wyświetla nie tylko reklamy (w postaci widocznych na górze
+grafik) oraz wyniki naturalne (porównywarkę ceneo i serwis ogłoszeniowy olx), ale również wskazuje na mapie lokalizacje,
+które uznaje za potencjalnie dopasowane do hasła – czyli krakowskie sklepy, w których można kupić buty. To ułatwienie
+dla użytkownika, który może zobaczyć na mapie położenie poszczególnych placówek oraz sprawdzić wskazówki dojazdu, czy
+znaleźć bezpośredni numer telefonu. Wyniki w tym polu pobierane są na podstawie wizytówek firm, które można bezpłatnie
+założyć w usłudze Google Moja Firma (jeśli chcesz mieć dobre SEO i pozycjonowanie lokalne, czym prędzej dodaj taką
+wizytówkę dla swoich stron). Witryny prowadzące najlepsze pozycjonowanie (na pozycji 1, 2 lub 3) w wyszukiwarce mają
+najlepsze miejsce, ale często znajdują się one poniżej mapki.
+
+Strona wyników wyszukiwania może być bardzo rozbudowana – oczywiście wszystko po to, aby użytkownik wyszukiwarki uzyskał
+jak najlepsze dla niego wyniki. Przykładem może być zapytanie o popularną restauracje oferującą “taco” w angielskiej
+wersji wyszukiwarki Google, które zostało sztucznie wygenerowane i opisane w artykule na blogu MOZ – “Mega-SERP: A
+Visual Guide to Google”. Zrzut zapytania z artykułu przedstawiamy poniżej.
+
+Mega SERP Google - przykład wygenerowany przez MOZ
+
+ILE RUCHU MOGĄ PRZYNIEŚĆ STRONY W ZALEŻNOŚCI OD POZYCJI W GOOGLE?
+Na witrynę internetową, która ma najlepsze pozycjonowanie wyświetli się na dane hasło jako pierwsze, wchodzi około 20%
+osób, wpisujących to hasło w wyszukiwarce. Dzięki drugiemu miejscu „zagarnia” około 13% ruchu, a witryny numer trzy –
+również 13%. Każda kolejne miejsce to wynik nieco gorszy, szacuje się jednak, że mając miejsce dziesiąte, portal może
+zyskać około 7% ruchu z danego hasła.
+
+Aby obliczyć, jaki ruch można pozyskać z danego słowa kluczowego wykorzystując pozycjonowanie stron wystarczy pomnożyć
+współczynnik klikalności CTR wybranej miejsca w wynikach wyszukiwania oraz historyczną ilość wyszukiwań słowa w danym
+miesiącu (dane historyczne dostępne są np. w narzędziu planera słów kluczowych Google Ads czy narzędziu Ubersuggest).
+
+Zależność między miejscem w wynikach wyszukiwania, a współczynnikiem CTR w Google
+Źródło: https://ignitevisibility.com/ctr-google-2017/
+
+Objaśnienie: Procenty nie sumują się do stu, ponieważ wielu użytkowników zagląda na więcej niż jeden wynik wyszukiwania.
+
+CO WPŁYWA NA POZYCJONOWANIE STRONY I WIDOCZNOŚĆ WITRYNY W WYNIKACH WYSZUKIWANIA GOOGLE?
+Google, przy wyznaczaniu miejsca strony w swoich wynikach, bierze pod uwagę ponad 200 czynników. Dla uproszenia
+działania wpływające na pozycjonowanie można podzielić je na trzy, podstawowe kategorie.
+
+Elementy wpływające na widoczność strony w Google
+
+ZAWARTOŚĆ STRON
+O pozycji strony decyduje w głównej mierze treść. Google ocenia między innymi zawartość samej strony – zamieszczane na
+niej teksty oraz grafiki. Bierze pod uwagę na przykład: występowanie określonych słów kluczowych, synonimów słów,
+oryginalność materiałów (kopiowanie treści nie przyniesie więc rezultatu), ich długość, przystępność dla użytkownika
+(np. obecność nagłówków Hx), linki zamieszczane na stronie (liczy się i linkowanie wewnętrzne i zewnętrzne). Listę
+takich elementów wartych poprawy można uzyskać zlecając audyt seo lub wykorzystując narzędzia (Screaming Frog, SiteBulb
+itp.).
+
+LINKI ZEWNĘTRZNE DO STRON
+Pozycjonowanie stron to głównie pozyskiwanie odnośników (linków). Dzięki nim algorytm wie, który serwis jest bardziej
+popularny. Google lepiej ocenia strony, do których prowadzą odnośniki z zewnętrznych serwisów. Sam mechanizm można
+porównać do modelu głosowania, jednak z tą różnicą, że nie wszystkie głosy są równe. Link z portali o wysokim
+autorytecie ma dużo większą moc niż link z nowo powstałej strony.
+
+Ważne jest tutaj pamiętanie o tym, że Google nie promuje spamu. W przeszłości działania SEO i pozycjonowanie strony
+często sprowadzały się do zdobywania dużej ilości linków z mało wartościowych miejsc. Dzięki temu, że było ich dużo
+strona zajmowała lepsze miejsce. Wprowadzenie algorytmu Pingwin na dobre zakończyło tę epokę.
+
+Obecnie wyszukiwarka premiuje serwisy, posiadające dużą liczbę linków z wartościowych serwisów, które same mają dobrą
+widoczność w wyszukiwarce. Pod uwagę brana jest więc nie tylko sama liczba linków, ale też to, czy pochodzą z serwisów o
+wysokiej jakości, z dużym autorytetem. Nie bez znaczenia jest także tematyka witryny – link ze strony o tematyce modowej
+do wizytówki firmy budowlanej wygląda podejrzanie i nie jest dobrym pomysłem. Pozycjonowanie taką metodą nie będzie
+skuteczne.
+
+OPTYMALIZACJA STRON
+W tym przypadku chodzi o czynniki przede wszystkim „techniczne” – na przykład szybkość ładowania się serwisu, strukturę
+menu, budowę adresów url poszczególnych podstron i kategorii, brak błędnych przekierowań czy odpowiednio dostosowana
+wersja mobilna.
+
+Warto podkreślić, że od 2015 roku jednym z najważniejszych czynników, jest tak zwany „RankBrain” – algorytm bazujący na
+sztucznej inteligencji, który ocenia zapytania użytkowników, wyszukując najbardziej pasujące do nich witryny. RankBrain
+potrafi „zinterpretować” bardziej skomplikowane zapytania użytkowników nie tylko na podstawie słów kluczowych, ale także
+kontekstu zapytania.
+
+W 2018 roku Google wprowadziło aktualizację o nazwie „mobile first index”. Obecnie ogromny wpływ na wysokie miejsce
+witryny ma jej wersja mobilna: to ona jest oceniana przez Google w pierwszej kolejności. Jeżeli nasza strona nie jest
+dostosowana pod urządzenia mobilne, pozycje w wynikach wyszukiwania i ogólna widoczność będą znacznie niższe, niż mogły
+by być.
+
+JAK WYGLĄDA SAM PROCES, CZYLI JAK SAMEMU POZYCJONOWAĆ STRONĘ?
+Wiemy już, czym jest pozycjonowanie stron, jakie może przynieść korzyści dla stron oraz jakie przykładowe czynniki
+wpływają na popularność strony w wyszukiwarkach. Jak jednak powinien wyglądać profesjonalnie przeprowadzony proces
+budowania widoczności w Google?
+
+Schemat procesu budowania widoczności w Google
+
+Poniżej przedstawiamy podejmowane działania SEO krok po kroku.
+
+Informacja:
+
+Najlepszy system, który określa skuteczność działań związanych z SEO jest Google Search Console. Usługa ta jest darmowa,
+łatwo się w niej poruszać, ale co najważniejsze -narzędziem tym sprawdzisz dane na temat widoczności Twojej strony
+prosto z zasobów Google oraz uzyskasz wiedzę o konkretnych linkach do niej. Jest to także miejsce, do którego otrzymasz
+wiadomości o ewentualnych działaniach ręcznych związanych ze stroną lub przypadkach Koniecznie załóż konto w tym
+narzędziu już dziś, jeśli tego nie zrobiłeś wcześniej i dodaj do niego każdą ze stron, dla której zależy Ci na ruchu z
+Google.
+
+OPRACOWANIE STRATEGII SEO
+Przed rozpoczęciem jakiejkolwiek działalności marketingowej – także działań SEO – należy opracować strategię. Staranny
+research i przygotowania umożliwiają wybranie najlepszych metod działania oraz dostosowania ich do specyfiki marki,
+branży i potencjalnej konkurencji.
+
+Pracując nad słowami kluczowymi (ang. keyword) pamiętaj, że czasem lepsze efekty SEO otrzymujesz, kiedy hasło jest
+rzadziej wyszukiwane. Ilość ruchu do uzyskania na wysokich pozycjach przy trudnym słowie kluczowym, które będziesz
+musiał podnosić w rankingu dobrymi linkami, to nie gwarancja sukcesu. Czasem uda się osiągnąć potencjał pokazywany przez
+narzędzia, czasem nie, gdyż pokazują one jedynie szacunki na podstawie swoich własnych algorytmów, a analizę opierają na
+niepełnych danych. Czasem po prostu warto zdecydować się na hasła, które mają mniejszą konkurencyjność, ale gdy znajdą
+się na one na wysokich miejscach przyniosą może mniejszy ruch, za to będą mieć lepszy współczynnik konwersji od tych
+ogólnych wyrażeń.
+
+CO POWINNA ZAWIERAĆ STRATEGIA, ABY POZYCJONOWANIE STRON BYŁO SKUTECZNE?
+W ramach opracowywania strategii SEO dla stron, między innymi:
+
+dobierane są słowa kluczowe: przy ich doborze brane są pod uwagę nie tylko dobre dopasowanie do oferty danej firmy, ale
+też liczba wyszukiwań czy potencjalna konkurencja walcząca o wysokie miejsca zbliżone wyszukiwania,
+zostaje przeanalizowana konkurencja oraz podejmowane przez nią działania,
+powstaje plan strategii budowy linków oraz rozbudowy treści i poprawy optymalizacji strony,
+określone zostaną metody mierzenia wyników.
+Na tym etapie warto zlecić wykonanie audytu całej witryny, który umożliwi zdiagnozować ewentualne czynniki, mogące
+obniżać jej widoczność (na przykład znaleźć błędne przekierowania, braki tekstów alternatywnych czy zduplikowane
+treści).
+
+OPTYMALIZACJA STRON, CZYLI SEO OPTYMALIZACJA
+Kolejnym krokiem powinno być rozpoczęcie działań SEO on-site, dotyczących udoskonalenia samej konstrukcji stron. Na tym
+etapie optymalizowane są czynniki wpływające na poprawność indeksowania witryny przez roboty wyszukiwarki czyli:
+struktura menu, znaczniki meta, plik robots.txt, plik mapy witryny, przekierowania, błędy 4XX oraz 5XX, budowa adresów
+URL, linkowanie wewnętrzne, wersja mobilna, duplikacja podstron, niedziałające linki, kanibalizacja słów kluczowych i
+wiele innych.
+
+OD CZEGO ZALEŻY DOBÓR ELEMENTÓW DO POPRAWIENIA?
+W zależności od tego, czy będzie to pozycjonowanie sklepu internetowego czy lokalne dla małej wizytówki firmowej na
+rynku lokalnym ilość pracy będzie się różnić. Czasem koszt niektórych optymalizacji (np. długi czas ładowania stron)
+będzie w dużej mierze zależny od tego jak zbudowana jest witryna i osiągnięcie wyniku 100/100 pkt w Google Page Speed
+Test będzie niemożliwe. Warto wtedy zobaczyć, jakie wyniki osiągają firmy znajdujące się na pierwszej stronie wyników
+wyszukiwania Google dla interesującego nas słowa kluczowego i optymalizować swoją witrynę w zbliżony sposób. Dzięki temu
+efekty działań będą dobre i można sporo zaoszczędzić. Pamiętajmy też, że optymalizacja stron pod kątem wyszukiwarek
+internetowych dotyczy całości stron – liczy się nie tylko strona główna, ale także podstrony, które wyświetlą się w
+wynikach organicznych wyszukiwarce internetowej na interesujące nas frazy kluczowe.
+
+CO JESZCZE JEST WAŻNE?
+Ważne jest również dążenie do poprawy UX (user experience – czyli ogółu doświadczeń użytkownika ze stroną). To na tym
+etapie udoskonala będzie na przykład wersja mobilna strony czy prędkość jej ładowania – to elementy, które dobre
+pozycjonowanie powinno optymalizować.
+
+CZY KAŻDA STRONA MUSI ZOSTAĆ ZAINDEKSOWANA W GOOGLE?
+Pamiętajmy, że nie wszystkie podstrony muszą być zgłaszane do indeksowania przez Google. Raczej nie prowadzi się działań
+SEO dla podstron tj. polityka prywatności, strona „program partnerski” czy strona plików cookies. Można spokojnie
+wyłączyć ich indeksowanie (w kodzie strony lub w pliku robots.txt), bo nie zwierają one fraz i treści istotnych dla
+Google – pozycjonowanie takich podstron po prostu nie ma sensu.
+
+Z JAKICH NARZĘDZI WARTO SKORZYSTAĆ?
+Optymalizacja strony wymaga narzędzi. Przydatne będą na pewno narzędzia tj. Google Analytics, Google Search Console,
+Surfer SEO czy Senuto. Niektóre z nich są płatne, ale jeśli zależy nam na top 10 wyników wyszukiwania warto w nie
+zainwestować.
+
+OPTYMALIZACJA TREŚCI NA STRONIE INTERNETOWEJ
+Jeśli serwis istnieje już od dawna, w pierwszej kolejności powinny zostać poprawione dotychczas zamieszczane na nim
+treści. Usunięte muszą zostać wszystkie duplikaty, publikowane teksty w niektórych przypadkach będą przeredagowywane
+albo inaczej formatowane, czasem może pojawić się potrzeba przepisania ich od nowa.
+
+Każda treść w serwisie powinna powstać w oparciu o słowa kluczowe, na które ma być wyświetlana w Google, dlatego do
+każdej z nich należy w pierwszej kolejności zadbać o dobór fraz kluczowych, a następnie nasycić odpowiednio nimi tekst.
+Tylko wtedy pozycjonowanie wybranych fraz jest możliwe. Co ważne, słowa kluczowe nie powinny pojawiać się w tekście w
+nienaturalnej formie czy zbyt często – przeoptymalizowanie tekstu jest równie błędne jak brak optymalizacji np. użycie
+fraz kluczowych a każdym zdaniu tekstu.
+
+Powstałe teksty należy odpowiednio sformatować (nagłówki Hx, pogrubienia, punktowanie) oraz uzupełnić o multimedia
+(zdjęcia, wideo, logo). Nie tylko wpłynie to pozytywnie na odbiór treści przez użytkownika, ale także uwiarygodni
+informacje umieszczone w tekście dla robotów wyszukiwarki Google.
+
+LINK – BUILDING, CZYLI POZYSKIWANIE LINKÓW PRZYCHODZĄCYCH
+Dopiero gdy strona zostanie odpowiednio przygotowana i zawiera wszystkie niezbędne informacje, można przejść do
+kolejnego kroku: zdobywania linków do stron. Warto pamiętać, że Google uznaje za spamowy każdy link zyskany sztucznie –
+według wytycznych Google dla webmasterów tworzenie wartościowej treści dla użytkownika samo przyciągnie linki.
+Oczywiście, ma się to nijak do rzeczywistości 🙂 Dlatego każdy link, który pozyskamy do domeny może spowodować, że
+otrzymamy za niego karę (jest to łamanie wytycznych Google). Dlatego istotne jest analizowanie na bieżąco widoczności
+strony i wyłapywanie takich sytuacji, a także zdobywanie linków z jak najbardziej różnorodnych źródeł (dywersyfikacja)
+oraz unikanie wszelkich schematów linkowania.
+
+Najbardziej wartościową formą link–buildingu jest content marketing zewnętrzny: a więc publikowanie wysokiej jakości
+artykułów i informacji, zawierających link do domeny, na portalach zewnętrznych, które są dobrze pozycjonowane oraz są
+chętnie odwiedzane przez użytkowników. Content marketing przynosi najlepsze rezultaty, jednak pozycjonowanie stron w ten
+sposób wymaga dużych nakładów finansowych.
+
+Inne, tańsze sposoby zdobywania bazy linków, to publikowanie krótszych, mniej wartościowych tekstów, które pisze się
+stricte pod Google i publikowanie ich na tańszych serwisach oraz tak zwany marketing szeptany.
+
+Oczywiście sposobów na pozyskanie linków do stron jest znacznie więcej niż marketing szeptany czy content marketing.
+Warto stosować jak najwięcej z nich, aby profil zebranych linków był jak najbardziej różnorodny. Wtedy ryzyko otrzymania
+kary od Google będzie minimalne, a pozycjonowanie bezpieczniejsze.
+
+ROZBUDOWA TEKSTÓW
+Na tym etapie działalność SEO spotyka się często z działalnością content marketingową. Zdobywanie nowych słów kluczowych
+oraz wzmacnianie widoczności na dotychczasowe, wymaga stałego publikowania nowych treści. To między innymi stąd tak
+popularne w ostatnich latach stało się prowadzenie bloga firmowego, który stanowi integralną część witryny firmowej.
+
+Długie, wysokiej jakości teksty, w których zawarte są odpowiednie słowa kluczowe, poprawiają pozycje strony w
+naturalnych wynikach wyszukiwania i budują dodatkową widoczność oraz znacznie ułatwiają pozycjonowanie. Jednocześnie
+jednak pełnią także inne zadania: budują wizerunek marki eksperckiej i wspomagającej oraz mogą stanowić content w social
+mediach (na przykład wpis z bloga firmowego można opublikować na swojej stronie na Facebooku – i zyskiwać w ten sposób
+dodatkowy ruch). W przypadku wpisów wewnętrznych ich jakość jest szczególnie ważna, wystawiają one bowiem opinię marce.
+
+ANALIZA WYNIKÓW SEO
+Cząstkowa analiza wyników może być przeprowadzana na bieżąco (aby udoskonalać metody działania), dopiero jednak po kilku
+miesiącach można w pełni zaobserwować skutki działań SEO. Po tym czasie warto sporządzić szczegółowy raport, analizujący
+między innymi widoczność strony, wzrost ruchu, wzrost miejsca w wynikach wyszukiwania, współczynnik odrzuceń,
+współczynnik konwersji (o ile to możliwe). Na podstawie raportu wytyczane są dalsze ścieżki działań i określić, jak
+rozwijać pozycjonowanie.
+
+W tym miejscu należy zaznaczyć, że powyższy plan został przedstawiony w wersji uproszczonej. W istocie niektóre
+działania – zwłaszcza link – building, rozbudowa tekstów oraz analiza wyników – prowadzone są równolegle. Nie można też
+mówić o etapie finalnym i „końcu pozycjonowania”. Raz zdobyta widoczność nigdy nie jest dana na zawsze, a konkurencja
+nie śpi. Nowe treści trzeba publikować regularnie, konieczne jest ciągłe zdobywanie nowych linków (także dlatego, że
+część zdobytych linków ulega utracie np. gdy domena z linkiem przestaje działać) oraz dostosowywanie stron pod
+zmieniające się wymagania Google. Pozycjonowanie to proces długotrwały.
+
+ILE KOSZTUJE POZYCJONOWANIE STRON, A ILE POZYCJONOWANIE SKLEPU INTERNETOWEGO? CZYLI KILKA SŁÓW O CENNIKU
+Sprawnie przeprowadzone działania SEO generują wysoki ruch z Google i wysokie zyski dla firmy. Wymagają jednak sporych
+inwestycji, szczególnie na starcie. Nie ma uniwersalnego cennika na działania SEO – każda firma jest inna, ma inną
+konkurencję, możliwości i zasoby, zatem każda oferta powinna być inna. Dlatego tak ważne jest przygotowanie strategii,
+która uwzględni indywidualne możliwości firmy i na ich podstawie dobierze działania, które okażą się skuteczne. Na
+podstawie tych informacji można zaplanować proces pozycjonowania i współpracy, wycenić działania i określić szacunkowy
+budżet usługi oraz efekty pozycjonowania.
+
+Z JAKICH ELEMENTÓW SKŁADA SIĘ BUDŻET NA POZYCJONOWANIE STRON?
+Elementy budżetu SEO
+
+Można przyjąć, że w budżecie na pozycjonowanie należy uwzględnić:
+
+Koszty opracowania strategii
+Koszty opracowania audytu
+Koszty pracy programistów
+Koszty pracy copywriterów
+Koszty pozyskiwania linków
+Koszty przygotowania grafik
+Dodatkowe koszty pracy specjalistów
+Każdy z tych elementów kosztuje. Czas pracy specjalisty SEO średnio wyceniany jest na ok. 100-150 zł za roboczo godzinę
+pracy – oczywiście stawki te różnią się w zależności od doświadczenia czy specyfiki pracy. Jak widzimy, żeby prowadzić
+skuteczne pozycjonowanie stron oraz osiągać wysokie pozycje potrzebujemy zespołu osób o różnych profilach, stąd koszty
+takich działań mają dość sporą rozpiętość.
+
+Dodatkowo przy pozycjonowaniu warto zwrócić uwagę na koszty zewnętrzne, jak np. publikacje w serwisach (oczywiście im
+lepszy serwis, tym lepszy artykuł trzeba przygotować i wyższa będzie cena za publikację, ale może bardziej przyczynić
+się do poprawy pozycji w Google). Dlatego właśnie niemożliwe jest skuteczne prowadzenie działań SEO za 200-500 zł
+miesięcznie. Rozsądnym budżetem wyjściowym, który należy przyjąć za pozycjonowanie, jest 1000 zł netto dla firm
+działających lokalnie (pozycjonowanie lokalne, SEO lokalne) – należy jednak pamiętać, że to często tylko bazowe prace,
+które zapewnią nam pierwsze efekty. Oczywiście w przypadku firm działających globalnie lub sklepów internetowych, gdzie
+istnieje silna konkurencja, kwota wydawana na pozycjonowanie będzie kilkukrotnie większa. Rozsądnie jest jednak
+dostosować cały koszt do pełnego spektrum potrzeb firmy i branży – zakresu działań SEO, dokładnej analizy biznesu i
+samych możliwości Klienta oraz jego firmy.
+
+CZY POZYCJONOWANIE STRON ZA 200 ZŁ MA SENS? CZY TAKA OFERTA DA DOBRY WYNIK?
+Często można spotkać się z ofertami za mniejszą kwotę za pozycjonowanie. W serwisie Allegro każdego dnia można znaleźć
+nowe oferty już za kilkadziesiąt złotych miesięcznie (czy wpisać w Google „pozycjonowanie stron cennik”). Na podstawie
+powyższych informacji jakie zawiera ten artykuł wiemy, ile pracy, czasu i wiedzy wymaga pozycjonowanie oraz
+optymalizacja strony. Czy są one bezpieczne i skuteczne? Czy zapewniają poprawę pozycji? Czy pozycje będą trwałe? Czy w
+takim zakresie jest miejsce na skuteczne pozycjonowanie i reagowanie na zmiany w Google? Czy oferta za 200 zł mam realna
+wartość? Czy cena jest adekwatna do jakości i gwarantuje skuteczny proces pozycjonowania i współpracy? Czy zdobędę
+klientów dzięki takiej usłudze? Na te pytania każdy powinien odpowiedzieć sobie sam.
+
+Usługi SEO i pozycjonowanie w Google raczej są kosztowne i z tym trzeba się liczyć. Jeśli szukasz skutecznego
+pozycjonowania stron internetowych to podczas wyboru agencji, która ma wykonać usługę nie kieruj się ceną (ani tym
+bardziej rozliczeniem za pozycje w Google!). Agencja SEO, która zna się na swojej pracy będzie droga, ale skuteczna.
+Rozliczenie na podstawie pozycji to proszenie się o spamowanie i eksperymentowanie na Twojej stronie (może się uda na
+chwilę, może nie). To długofalowa inwestycja, dzięki której Twoja firma ma pozyskać nowych klientów w przyszłości.
+Pamiętaj, tylko specjaliści w temacie dobiorą precyzyjne lub kompleksowe działania, które będą wartościowe dla poprawy
+wyników Twojej strony. Ustalając ranking firm do współpracy sprawdź referencję i klientów agencji, a cena powinna być
+kolejnym kryterium decydującym o współpracy.
+
+JAK OSIĄGNĄĆ SUKCES, CZYLI JAK WYGLĄDA DOBRE POZYCJONOWANIE STRON/SEO?
+Warto tutaj podkreślić, że osiągnięcie efektów, czyli skuteczne pozycjonowanie zależy m. in. od takich elementów jak:
+
+Słowa kluczowe (czyli zapytania wpisywane w wyszukiwarkę), z myślą o których optymalizujemy stronę, muszą być starannie
+dobrane pod kątem oferty: inaczej użytkownik wejdzie na stronę, ale szybko ją opuści, gdy odkryje, że nie znajdzie na
+niej tego, czego szuka. Zwiększymy więc ilość ruchu na stronie, ale nie współczynnik konwersji. Co gorsze, obniżamy w
+ten sposób pozycje strony – skoro zapytanie nie spełniło oczekiwań użytkownika Google, to wyszukiwarka może obniżyć
+miejsce na to konkretne hasło.
+Należy dążyć nie tylko do osiągnięcia jak najlepszych miejsc na najważniejsze słowa kluczowe, ale także budować tak
+zwany „długi ogon” (long tail). Czyli walczyć o hasła wpisywane przez użytkowników do wyszukiwarki rzadziej, ale które
+wspólnie mogą wygenerować na stronie duży ruch, a ze względu na swoją szczegółowość – mogą dać więcej konwersji. Na
+przykład hasło „buty” jest popularniejsze od hasła „czarne damskie buty sportowe 39”. Jednak ktoś, kto szuka ogólnie
+„butów” rzadko jest zdecydowany zakupem – często szuka jedynie informacji, bada temat. Osoba szukająca czarnych damskich
+butów sportowych, potencjalnie chętniej dokona zakupu, bo wie, czego konkretnie szuka. Tym samym, chociaż to drugie
+słowo przyciągnie mniej potencjalnych klientów – daje większe szanse na konwersję pod postacią zakupu.)
+Pozycjonowanie na ogólne słowa kluczowe jak “buty” jest bardzo trudne i wymaga dużej ilości środków, infomacji oraz
+czasu (liczonego w przypadku tego słowa zapewne w latach). Dlatego tak ważne jest budowanie widoczności na zapytania z
+“długiego ogona”, szczególnie przez domeny, które dopiero zaczynają przygodę w Google.
+Warto podkreślić, że działania on-site SEO i pozycjonowanie strony internetowej, często zogniskowane są wokół poprawy
+doświadczeń użytkowników i oferta pozycjonowania powinna to zawierać. Zwiększają one widoczność w wyszukiwarkach, ale
+także sprawiają, że serwis staje się bardziej przyjazny Internautom, którzy wykorzystują informacje w nim zawarte. To z
+kolei zachęca użytkowników do zostania na stronie, powrotów na nią w przeszłości oraz umożliwia na budowanie pozytywnych
+skojarzeń z marką – i również przekłada się na cele sprzedażowe.
+
+Równie istotna jest rozbudowa treści strony, gdyż zwiększa ona ilość słów kluczowych, na jakie Google może wyświetlić
+stronę w wynikach wyszukiwania. Co więcej, Google faworyzuje większe strony – rozbudowa o nowej treści, artykuły i
+informacje powoduje więc naturalnie jej większą widoczność i lepsze pozycjonowanie.
+
+Schemat dobrego procesu działań w Google
+
+O czym dodatkowo należy pamiętać jeśli chodzi o pozycjonowanie? Działalność SEO jest skuteczna wyłącznie wtedy, gdy
+zostaje starannie zaplanowana, prowadzona kompleksowo przez dłuższy czas, a jej wyniki są stale monitorowane. Dodatkowo,
+aby faktycznie podnieść popularność stron, warto łączyć SEO z innymi działaniami marketingowymi na przykład content
+marketingiem. Zdarza się, że firmy zaczynają działania bez przygotowanej strategii i oczekują natychmiastowego efektu, a
+gdy ten się nie pojawia, wyciągają wniosek, że SEO jest nieskuteczne. Tymczasem Google nie reaguje natychmiast na zmiany
+wprowadzone na stronie i pojawiające się do niej linki, a zdobycie wyższych pozycji na popularniejsze słowa kluczowe
+wymaga czasu.
+
+PS: Ten artykuł oprócz wartości informacyjnej powstał również z myślą o wysokiej pozycji w Google. Artykuł został
+zoptymalizowany i pozyskaliśmy do niego kilka linków, które powinny spowodować, że znajdzie się na pierwszej stronie.
+Czy się nam uda i nasz artykuł będzie w top10? Zobaczymy z czasem 🙂
+
+CZY POZYCJONOWANIE STRON INTERNETOWYCH JEST NIEZBĘDNE?
+Powyższy artykuł jest podstawą do szukania dalszych informacji i testowania rozwiązań. Jeśli chcesz, aby Twoja witryna
+internetowa pozyskiwała wartościowy ruch i Klientów – owszem, pozycjonowanie stron (oraz ogólnie marketing) jest
+potrzebne i w obecnych czasach prawie zawsze obowiązkowe. Twoja firma niezależnie od branży powinna zadbać o wysokie
+pozycje w wyszukiwarce Google, najlepiej słynne top10.
+
+Działalność SEO i pozycjonowanie prowadzi coraz więcej firm, a to oznacza wzrost konkurencji i częste zostanie „w tyle”
+marek, które lekceważą tę gałąź marketingu internetowego. Starannie zaplanowane działania oraz konsekwentnie
+realizowane, mogą doprowadzić do wzrostu ruchu organicznego o kilkadziesiąt procent w skali roku i pozwolić na
+zwiększenie zysków. Efekty pozycjonowania powinny pojawić się tak szybko jak to możliwe, bo dzięki wysokiej widoczności
+i skutecznemu pozycjonowaniu stron na frazy kluczowe Twoją stronę będzie odwiedzać więcej osób, których może
+zainteresować Twoja oferta na stronie www.
+
+Prowadzisz firmę i szukasz agencji do pozycjonowania strony internetowej / SEO i poprawienia wyników w naturalnych
+wynikach wyszukiwania? A może nie wiesz, jak powinna wyglądać strategia SEO budowania widoczności w Google dla Twojej
+strony? Skontaktuj się z nami! Przyjrzymy się Twojej stronie internetowej i przygotujemy ofertę dopasowaną do możliwości
+i potrzeb Twojego biznesu (nasz cennik jest elastyczny i nie stosujemy kilkuletniej umowy, bo wiemy, że efekty same się
+obronią).
+
+Jeśli chcesz poznać nas bardziej sprawdź naszą stronę, nasze SEO case study i sprawdź, kim są nasi klienci. Informacje
+kontaktowe znajdziesz w zakładce kontakt (dostępnej w menu). Na pozycjonowaniu stron znamy się bardziej, niż to wynika z
+naszej strony i wiemy jak sprawić, żeby widoczność Twojej firmy oraz ilość potencjalnych klientów z Google stale rosła
+🙂 Pamiętaj, że jeśli prowadzisz skuteczne pozycjonowanie strona powinna piąć się w wyszukiwarce w górę, a firma
+pozyskiwać coraz więcej klientów.
+
+Ten artykuł stworzyliśmy, żeby pokazać Ci, że pozycjonowanie może być skomplikowane i pracochłonne. Zapraszamy do
+współpracy z nami i dziękujemy, że przeczytałeś nasz artykuł. Będzie nam miło, jeśli będziesz odwiedzać naszą stronę
+regularnie i dodasz komentarz po tym wpisem. Wysokich pozycji strony i do przeczytania! 🙂

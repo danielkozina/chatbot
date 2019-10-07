@@ -1,0 +1,149 @@
+„Mur” w pozycjonowaniu, 10 kroków co zrobić kiedy pozycje nie pną się w górę
+Czytelnicy którzy do mnie piszą, proszą aby poruszyć kwestię tzw muru w pozycjonowaniu. Jest to sytuacja kiedy pozycje
+nie chcą wejść wyżej niż pozycje które już zostały osiągnięte. Z taką sytuacją spotykają się osoby samodzielnie
+pozycjonujący swoje strony www ale też specjaliści zajmujące się tym zawodowo. Jest to dosyć normalna sytuacja i
+stosując odpowiednią „procedurę” spokojnie można pokonać taką przeszkodę.
+
+Zdarzyło Ci się kiedyś, że:
+pozycje wszystkich fraz, które pozycjonujesz nie chciały osiągnąć wyższych pozycji?
+
+tylko wybrane frazy nie chciały ruszyć z miejsca?
+
+frazy na jakiś czas wskakiwały do top 10 a później wypadały?
+
+Spis treści:
+analizuj ostatnie linki
+
+analizuj historyczne linki
+
+porównaj domeny konkurencji
+
+porównaj linki konkurencji
+
+porównaj anchorów konkurencji
+
+sprawdź optymalizację
+
+zmień schemat anchorów
+
+zmień schemat back linków
+
+zmień podstronę docelową
+
+zmień domenę :)
+
+Wielu pozycjonerów czy przedsiębiorców, którzy decydują się na samodzielne pozycjonowanie strony czy sklepu, spotykają
+się właśnie z takim zjawiskiem, kiedy pozycje z jakiegoś względu dosłownie stoją w miejscu, nie zmieniają się. Błędem w
+takich sytuacjach jest zwiększanie ilości przydzielanych linków, zwłaszcza, jeśli ilość tych linków zwiększa się dla
+podstrony zoptymalizowanej pod frazę czy frazy, które akurat nie chcą piąć się w górę. Poniżej przedstawiam kroki, jakie
+należy podjąć, aby pokonać taką właśnie trudność.
+
+1. Analizuj ostatnie linki
+Bardzo ważną kwestią jest prowadzenie odpowiednich notatek z pozycjonowania. Prowadzenie zestawienia linków, jakie są
+przydzielane w każdym miesiącu oraz anchorów. Przejrzyj dokładnie linki, jakie były przydzielane w ostatnich 4-6
+miesiącach. Zastanów się czy te linki czymś się różnią? Czy mają jakiś wspólny mianownik? Jeżeli jest to możliwe, wejdź
+na każdy z tych linków. Być może jest tak, że wszystkie są zbyt schematyczne.
+
+
+
+2. Analizuj historyczne BL
+Może okazać się, że do Twojej domeny czy konkretnie do podstrony są przydzielone linki, które psują profil linkowania.
+Może być też tak, że są przydzielone linki słabej jakości i to właśnie one są przyczyną słabej reakcji dla Twojej
+domeny. Pomimo, iż obecnie każdy link jest oceniany przez algrytm indywidualnie to zdarzają się sytuacje, kiedy to
+kasowanie wybranych linków powodowało wzrosty pozycji.
+
+
+
+3. Porównaj domeny konkurencji
+Piszę o tym, ponieważ zdarza się, że ktoś zgłasza się do mnie z analizą pozycjonowania, abym zdiagnozował, dlaczego
+pozycje nie pną się w górę. Okazuje się, że domeny, które są nad tą, która „nie idzie” mają Trust Flow 60, są 15 lat w
+sieci, 200 000 tys site itp. a przebić je próbuje domena, która nie posiada nawet 20% w/w parametrów. Oczywiście zgadzam
+się, że znaleźć można w top 10 domeny które mają słabe parametry i są nad tymi, które mają wyższe. Nie mniej trzeba też
+pamiętać, że czynnikiem rankingowym jest pewien algorytm. Algorytm taki działa w sposób logiczny i ocenia strony na
+podstawie pewnych danych. Trzeba też pamiętać o tym, że algorytm może się pomylić;)
+
+Jak widać domena nr1 znacznie odbiega parametrami od stron konkurencji, która znajduje się w top 10 na słowa kluczowe,
+na których tej domenie zależy
+
+4. Porównaj linki konkurencji
+Wielu pozycjonerów ma swoją strategię linkowania. W zasadzie każdy ma swoją strategię i często jest tak, że wydaje im
+się, iż ta właśnie strategia jest najskuteczniejsza. Może okazać się jednak, że pozycjonowana domena ma przydzielane
+linki z tzw profili, ogłoszeń, notatek prasowych i zaledwie 4 artykułów sponsorowanych na portalach regionalnych.
+Podczas, gdy domena konkurencji ma przyrost rzędu 20 linków miesięcznie, linki są dywersyfikowane i pochodzą z portali
+typu Interia, Onet itp. Domena prowadzi też aktywne współprace z Influancerami, gdzie pozyskuje niezależnie BL dla
+swojej domeny. W takiej sytuacji z duży prawdopodobieństwem, jeśli nie zwiększysz nakładów prawdopodobnie nigdy nie
+przebijesz stron konkurencyjnych.
+
+5. Porównaj anchory konkurencji
+W mojej ocenie sposób w jaki są przydzielane anchor teksty, odgrywa jedną z bardziej kluczowych ról w pozycjonowaniu.
+Pamiętaj o tym ważnym elemencie. Jeśli nie jesteś w stanie pokonać konkurencji, sprawdź w jaki sposób linkują do domen,
+które chcesz pokonać. Analizuj parametry i sprawdzaj % występowania poszczególnych anchorów dla poszczególnych podstron.
+Zastanów się, w czym jesteś gorszy i nie kopiuj, a wdrażaj rozwiązanie dzięki któremu będziesz jeszcze lepszy.
+
+
+
+6. Sprawdź optymalizację
+Czasem domena która jest pozycjonowana jest optymalizowana dla najważniejszych elementów. Otrzymuje frazy kluczowe do
+title, description, treści na daną podstronę. Jeśli efekty nie są osiągane, podejmuj kolejne próby. Zastanów się, co
+można jeszcze zrobić, aby pozycje dla Twojej strony cały czas rosły. Pomyśl, jak Google widzi Twoją stronę. Jak ją
+skanuje lub jak może skanować, co można poprawić udoskonalić czy zmienić. Nieustannie staraj się przełamać schemat.
+Sprawdź, co można jeszcze poprawić poza tym, co już zostało zrobione.
+
+
+
+7. Zmień schemat anchorów
+Żaden schemat nie jest dobry, jeśli jest zbyt schematyczny ;). Zwłaszcza w pozycjonowaniu. Być może jest tak, że
+linkujesz domenę wg określonego układu. Przejrzyj dokładnie historycznie linki jakie są przydzielane i zastanów się, co
+można zrobić, aby w tym danym miesiącu zmienić sposób przydzielania anchorów o 180stopni. Przełamuj schematy.
+
+8. Zmień schemat backlinków
+Analizując różne domeny widzę, że linki przydzielane są niemalże w takim samym układzie i na prawie takich samych
+stronach. Niewiele się od siebie różnią i są bardzo a to bardzo strukturalne. Nic więc dziwnego, że pozycje nie idą do
+góry i z dużym prawdopodobieństwem nie pójdą, jeśli coś nie zostanie zmienione. Pomyśl, co możesz zmienić i zrób to.
+Umieść dla odmiany linki na zupełnie innych stronach, tak aby znacząco różniły się od poprzednich miesięcy.
+
+Zastanów się czy do domeny którą pozycjonujesz prowadzą takie linki jak:
+
+dofollow
+
+nofollo
+
+wiki:)
+
+linki obrazkowe
+
+linki z komentarzy
+
+portale regionalne news
+
+blogerzy
+
+portale tematyczne
+
+
+
+9. Zmień podstronę docelową
+Jeśli wszystkie w/w metody zawiodą można zdecydować się na dosyć drastyczny krok, jakim jest zamiana podstrony
+docelowej. Czasem może być tak, że dla danej podstrony zrobiliśmy wszystko co było możliwe a domena nadal nie reaguje. W
+takich sytuacjach dobrym krokiem jest zbudowanie osobnej podstrony i dla niej właśnie prowadzenie prac seo. Oczywiście
+zawartość musi być przeniesiona aby nie występowała kanibalizacja fraz kluczowych. Dobrze jest w takich momentach
+stworzyć nowe treści dla tej nowo utworzonej podstrony.
+
+domena.pl/pozycjonowanie
+
+zamień na
+
+domena.pl/pozycjonowanie-stron
+
+10. Zmiana domeny:)
+Jeżeli wszystkie z w/w metod nie działają i pozycje dla Twojej strony nadal nie zmieniają się a Ty jesteś pewien, że
+Twoja domena nie ma filtra, oznacza to że ktoś w Google bardzo Cię nie lubi ;p. Osobiście nie spotkałem się jeszcze z
+taką sytuacją, ale być może Ty się spotykasz? Może jednak zdarzyć się sytuacja, że profil linkowania domeny jest tak zły
+i historyczne pozycjonowanie tak słabe, iż szkoda czasu na czyszczenie tego wszystkiego i w takich okolicznościach
+faktycznie najlepszym rozwiązaniem będzie właśnie zmiana domeny.
+
+Podsumowanie
+Tzw mur jest pewnym zjawiskiem w pozycjonowaniu i wielu czytelników zgłasza się do mnie z takim właśnie problemem.
+Najgorsze w tym wszystkim jest to, że często pozycjonerzy zapominają o kluczowych elementach. Dlatego pamiętaj, aby
+nieustannie analizować i poprawiać ponieważ tylko przełamanie schematu może pomóc. Oczywiście zawsze możesz też zlecić
+pozycjonowanie SeoNinja wysyłając zapytanie tu ;)

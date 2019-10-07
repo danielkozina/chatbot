@@ -1,0 +1,157 @@
+Robots.txt i sekcja META – dlaczego są tak ważne w SEO? - Optymalizacja techniczna strony internetowej pod SEO to
+zagadnienie rozległe, które wymaga wiedzy oraz doświadczenia. Składa się na nią mnóstwo działań na trzech płaszczyznach:
+contentowej, developerskiej i UX. Podczas dostosowania Twojej strony internetowej pod wymogi wyszukiwarki Google jedynym
+z najważniejszych działań jest zadbanie o dostępność robotów do strony oraz przekazanie im kluczowych informacji o niej.
+Do tego właśnie służą plik robots.txt oraz sekcja meta. Więcej szczegółów poniżej
+
+Czym jest plik robots.txt i jak go przygotować?
+Divider
+Plik robots.txt znajduje się w katalogu głównym na serwerze FTP. Przekazuje robotom wyszukiwarek, a także narzędzi
+pozycjonujących informacje o tym, co mogą indeksować z danej domeny oraz do których zasobów nie mogą mieć dostępu.
+Jeżeli chcesz sprawnie zarządzać ruchem robotów indeksujących w Twojej stronie www, musisz zadbać o odpowiednią
+optymalizację tego pliku. Jak go zrobić? Wystarczy, że uruchomisz zwykły notatnik, wprowadzisz podstawowe dyrektywy oraz
+dodasz go do głównego katalogu witryny. Ważne jest, aby zgłosić istnienie pliku robots.txt w panelu Google Search
+Cosnole.
+
+Adres URL prowadzącego do naszego robots.txt - https://www.studiolokomotywa.pl/robots.txt – tak może wyglądać
+standardowy plik robots.txt dla strony na WordPress.
+
+
+
+Dlaczego robots.txt jest tak ważny?
+Divider
+Przede wszystkim należy zwrócić uwagę na to, że plik robots.txt jest pierwszym, do którego zagląda robot Google. Warto
+więc już na samym wstępie przekazać pajączkom kluczowe informacje o tym, które zasoby są warte eksploracji, a które są
+mniej istotne.
+
+Robots.txt pozwala na optymalne zarządzanie zasobami indeksującymi. Chodzi tutaj o to, żeby nie marnować zasobów robotów
+Google na podstrony, które nie mają żadnego znaczenia z biznesowego punktu widzenia. W przypadku, gdy dana domena ma
+tysiące podstron, całkowite jej indeksowanie może zająć mnóstwo czasu. To przekłada się na wydłużenie czasu, zanim ważne
+podstrony pojawią się w Google, a także na ich pozycje w Google. Dlatego też eliminując dostęp do mało ważnych zasobów
+Twojej strony, roboty przeznaczają ten czas na wertowanie i indeksowanie tych, na których Ci zależy. To optymalizacja
+crawl budget, czyli budżetu indeksowania witryny.
+
+Przydatne dyrektywy w robots.txt
+Divider
+Poniżej przedstawiamy wytyczne dla robotów, które mogą przydać się podczas zarządzania stroną internetową.
+
+a) Wszystkie roboty indeksujące oraz analizujące Twoją stronę mają dostęp do wszelkich zasobów:
+
+User-agent: *
+Disallow:
+b) Zablokowanie dostępu (disallow) do katalogu z wyłączeniem jednego pliku (allow):
+
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+c) Zablokowanie dostępu do plików graficznych:
+
+User-agent: Googlebot
+Disallow: /*.jpg$
+
+
+Divider
+d) Zablokowanie dostępu do całego katalogu:
+
+User-agent: Googlebot
+Disallow: /moje/
+e) Dyrektywa blokująca dostęp do tylko adresu katalogu, ale nie do jego zasobów:
+
+User-agent: Googlebot
+Disallow: /moje/$
+f) Zablokowaie dostępów do określonego adresu URL:
+
+User-agent: Googlebot
+Disallow: /twoj-plik.html
+g) Zablokowanie dostępu do strony narzędziom crawlującym (np. Ahrefs):
+
+User-agent: AhrefsBot
+Disallow: /
+Większość popularnych CMS do stron oraz sklepów internetowych ma podstawowy plik robots.txt przygotowany poprawnie, choć
+nie idealnie i nie jest rzecz jasna dopasowany do indywidualnych potrzeb. Na tym polu kuleje Joomla!. Standardowy plik
+robots.txt w Joomla! blokuje dostęp do wielu zasobów (a nie tak dawno, o zgrozo, do zdjęć!), co nie pozwala robotom
+Google na odpowiednią indeksację strony.
+
+Divider
+Przykład standardowego pliku robots.txt w Joomla!:
+
+Prawidłowy zapis tegoż (UWAGA! długi tekst):
+
+W pliku robots.txt warto również umieścić link do adresu URL sitemap.xml, aby ułatwić dostęp do zasobów robotom
+wyszukiwarek.
+
+Pamiętaj, że zablokowanie dostępów do całej Twojej strony może nie być skuteczne, dlatego zawsze używaj również tagu z
+dyrektywą noindex.
+
+Sekcja meta – najważniejsze informacje
+Divider
+Sekcja meta znajduje się w nagłówku strony internetowej, czyli części, przeważnie na jej początku. Dane tam zawarte nie
+wyświetlają się na stronie internetowej na froncie. Są to wyłącznie wskazówki dla robotów indeksujących, które niosą za
+sobą kluczowe informacje o danej stronie www. Niektóre z nich, jak title oraz description wyświetlają się w wynikach
+wyszukiwania przy adresie URL Twojej domeny.
+
+Meta title – kluczowy czynnik rankingowy
+Tytuł strony internetowej to nadal jeden z ważniejszych czynników rankingowych. Zawarte w nim słowa kluczowe pomagają
+zinterpretować robotom Google, o czym jest dana strona www. Meta title powinien być nie dłuższy niż 600 px. Warto
+umieścić w nim jedno, dwa słowa kluczowe oraz nazwę brandu.
+
+Przykład prawidłowego meta tagu title: < title>Pozycjonowanie stron internetowych · Agencja SEO Poznań - Studio
+    Lokomotywa< /title> (bez spacji między nawiasami).
+
+
+
+        Meta description – opis zwiększający CTR
+        Divider
+        Opis strony internetowej wyświetlany jest pod adresem URL w wynikach wyszukiwania. Do każdej podstrony masz do
+        dyspozycji aktualnie 156 znaków. Pod SEO można zawrzeć tam więcej informacji, pod UX nawet nieco mniej znaków,
+        ponieważ na urządzeniach mobilnych wyświetlane jest mniej contentu.
+
+        Meta tag description to idealne miejsce, aby rozszerzyć meta title, czyli opisać kluczowe obszary działania i
+        zachęcić do wejścia na stronę. Umiarkowane wykorzystanie znaków specjalnych na pewno jeszcze bardziej pomoże w
+        tym zakresie.
+
+        Prawidłowy opis strony: < meta name="description"
+            content="Pozycjonowanie · Pełna Optymalizacja · Jasne Zasady · 7 Lat Doświadczenia · Skontaktuj się z nami! · Tel: ☎ 537 446 550 ➤ ul. Mickiewicza 33, Poznań."/>
+            (bez spacji między nawiasami).
+
+            Meta keywords – archaiczny sposób na wyższe pozycje
+            Divider
+            Jeszcze kilka lat temu ten tag był jednym z ważniejszych elementów optymalizacji SEO. Poprzez umieszczenie w
+            nim dziesiątek słów kluczowych można było osiągać dobre pozycje. Z uwagi na liczne nadużywania tegoż ze
+            strony pozycjonerów Google przestała brać ten tag pod uwagę. Niektórzy go zostawili dla testów, niektórzy
+            liczą, że może kiedyś znów zadziała, inni usunęli ze stron. Pozostawienie jednego słowa kluczowego nie
+            zaszkodzi, a jest to jakiś sposób na zagęszczenie frazy kluczowej w kodzie. Nie zalecamy jednak zwracać na
+            niego szczególnej uwagi, gdyż czas ten trzeba przeznaczać na optymalizację innych elementów.
+
+
+
+            Meta tag robots – dyrektywy dla Google
+            Divider
+            Przy pomocy różnego rodzaju meta tagów ,,robots" możesz zarządzać procesem indeksacji. Google rozumie
+            poniższe tagi oraz wartości:
+
+            < meta name="robots" content="WARTOŚĆ" /> (bez spacji między nawiasami)
+
+                W miejsce WARTOŚĆ można wstawić jedną z poniższych dyrektyw:
+
+                1. all – pozwalamy na indeksację wszystkich zasobów,
+                2. index, follow – jak wyżej; częściej używany niż punkt 1,
+                3. follow – zostaną zaindeksowane linki w celu późniejszego odwiedzenia przez roboty,
+                4. index, nofollow – strona zostanie zaindeksowana, ale linki wewnętrzne już nie,
+                5. noindex, follow – zaindeksowane zostaną tylko linki, ale nie podstrony. Często wykorzystywany tag
+                przy kolejnych stronach paginacji oraz politykach prywatności/cookies,
+                6. noindex – domena nie zostanie zindeksowana,
+                7. noindex, nofollow – roboty nie będą indeksować żadnych zasobów.
+                Divider
+                Innymi elementami meta, o których warto wspomnieć, są:
+
+                a) Meta viewport do optymalizacji stron mobilnych
+
+                Przekazuje on informację o wymiarach oraz skalowaniu domeny dla różnych urządzeń. Rekomendowaną
+                wartością jest: < meta name=viewport content="width=device-width, initial-scale=1"> (bez odstępu między
+                    nawiasami)
+
+                    b) Meta http-equiv jako sposób kodowania znaków
+
+                    Tag ten definiuje typ zawartości strony oraz sposób kodowania znaków. Dla html5 występuje w
+                    wariancie:< meta charset="UTF-8"> (bez odstępu między nawiasami)

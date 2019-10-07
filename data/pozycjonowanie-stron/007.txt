@@ -1,0 +1,198 @@
+Content marketing w praktyce - 34 narzędzia, które pomogą Ci tworzyć skuteczne treści
+Dobry content marketing, czyli jaki?
+
+Content marketing jest na fali. Mniejsze i większe firmy zdały sobie sprawę z jego siły, nie zawsze rozumiejąc jego
+fenomen. Jako copywriter wiele razy spotkałam się ze sformułowaniami typu "chcielibyśmy ciekawe treści pod SEO".
+Tylko... dobrego contentu nie tworzy się pod SEO. Treści, w moim przypadku teksty, by wykorzystały 100% swojego
+potencjału, powinny być tworzone z myślą o odbiorcy. "Pod SEO" oznacza jedynie dostosowanie formy, by była ona przyjazna
+dla wyszukiwarki. Czynników, które wpływają na pozycjonowanie się treści, jest sporo: znaczniki meta, unikalność,
+czytelność, poprawność ortograficzna, linki wewnętrzne i zewnętrzne, waga zdjęć... By mieć pewność, że wszystkie aspekty
+zostały wzięte pod uwagę, warto korzystać z narzędzi, które ułatwiają cały proces.
+
+Narzędzia do content marketingu - do it like a pro
+
+W internecie dostępnych jest cała masa dobrych narzędzi pomocnych w optymalizacji treści. Nie wymienię nawet połowy z
+nich, podobne listy regularnie publikuje chociażby Hubspot. Zachłystując się nowymi narzędziami jak zabawkami, łatwo
+stracić z oczu cel, dobry content, który spełni swoje zadanie. Te przykładowe cele to np. wyższa pozycja na frazę, nowi
+klienci, wzrost sprzedaży produktu, budowanie marki. Codziennie korzystam z kilkunastu narzędzi, bez których nie
+wyobrażam sobie pracy. Nieco rzadziej, ale regularnie z kilkunastu następnych — w zależności od zadania. Pokaże Ci
+proces tworzenia tekstu pod SEO od początku do końca. Od pomysłu na temat, aż do publikacji.
+
+Spis treści
+Jak znaleźć pomysł na content
+
+Tytuł i znaczniki meta
+
+Research
+
+Słowa kluczowe
+
+Optymalizacja tekstu
+
+Multimedia
+
+Jak znaleźć pomysł na content
+Wolna ręka w zakresie znalezienia tematu może być dobrodziejstwem lub przekleństwem. Najgorsze, co można zrobić, to
+czekać na przypływ weny. Wiem, że na jej temat są różne teorie, ale w przypadku tekstu użytkowego jest się bardziej
+rzemieślnikiem niż artystą. Oczekiwanie natchnienia bywa fantastyczną przykrywką dla lenistwa :)
+
+Jest kilka dróg do ustalenia tematu tekstu:
+
+Analiza pozycji na frazy lub fraz, po których wyszukiwana jest strona
+
+To jedna z moich ulubionych metod szukania tematu na treści i jednocześnie najszybsza. Sprawdź pozycje dla strony, na
+której będziesz publikować lub zobacz, czy nie było ostatnio wejść z ciekawych zapytań.
+
+Narzędzia SEO:
+
+Seostation (http://www.seostation.pl/)
+
+Po ogólnej analizie sytuacji można zdecydować się na dwie drogi. Content powiązany z frazą o tendencji rosnącej lub
+przeciwnie, podratowanie frazy o słabszej sytuacji.
+
+Google Analytics (https://www.google.com/analytics/)
+
+Sprawdzenie trendów
+
+Sprawdzenie, o czym się mówi i wstrzelenie się w modny temat to zupełnie inne podejście.
+
+Narzędzia do analizy trendów:
+
+Quora (https://www.quora.com/)
+
+Answer the public (https://answerthepublic.com/)
+
+Trendy google (https://trends.google.pl/trends/)
+
+Buzzsumo (https://app.buzzsumo.com/)
+
+Sotrender (https://www.sotrender.com/pl/)
+
+Pocket (https://getpocket.com/)
+
+… wyszukiwarka Google
+
+Analiza bieżących potrzeb
+
+Tu akurat nie potrzebujesz żadnych narzędzi. Chcesz zachęcić klienta do zakupu nowego produktu? Poinformuj na blogu
+firmowym o jego wprowadzeniu. Albo lepiej, Napisz, jakie problemy rozwiązuje jego zakup, jakie potrzeby zaspokaja. Byłeś
+na konferencji branżowej i chcesz budować swój wizerunek jako eksperta? Napisz relację z imprezy, opisz swoje wrażenia.
+
+Dobry temat na tekst to połowa sukcesu dla Wojtka Wawrzaka, prawnika kreatywnych i blogera (https://prakreacja.pl/):
+
+"Z mojego punktu widzenia kluczowy jest dobór tematu, który powinien odpowiadać rzeczywistemu pytaniu wpisywanemu w
+wyszukiwarkę. Dobrze dobrany temat sprawia, że artykuł jest popularny, chętnie udostępniany, odwiedzany, a co za tym
+idzie, wyżej pozycjonuje się w wyszukiwarce. [...] Na początku wspierałem się narzędziami, planerem słów kluczowych i
+semstorm, obecnie dostaję na tyle dużo zapytań, że tematów realnie potrzebnych nie brakuje. :)"
+
+Wojciech Wawrzak
+
+Wojtek zwrócił uwagę na bardzo ważną kwestię. Często szukamy tematu daleko. Wspieramy się analizami, raportami lub (w
+najgorszym przypadku) - kierujemy się tym, co nam się wydaję, że może być interesujące dla odbiorcy, nie sprawdzając
+tego nijak. Jeżeli tylko mamy możliwość, tematu poszukajmy we własnej skrzynce odbiorczej, w pytaniach otrzymywanych od
+klientów. Przekładając to na grunt ecommerce — sprawdź, o co najczęściej pytają Twoi klienci w zapytaniach lub przez CC.
+
+2. Tytuł i znaczniki meta.
+Od pomysłu na tekst do tytułu jest jeszcze daleka droga. Pierwotny tytuł nie zawsze nadaje się na title. Jeżeli Twoja
+strona jest na Wordpressie, w optymalizacji całego tekstu, pomoże Yoast SEO. To jedna z najpopularniejszych wtyczek SEO.
+Jest też jednym z ulubionych narzędzi Urszuli Bielskiej-Phelep, właścicielki Urszula Marketing i założycielki grupy Blog
+Firma:
+
+"Moim ulubionym narzędziem do optymalizacji treści na stronie i w postach blogowych jest przede wszystkim wtyczka Yoast
+SEO, której używam regularnie za każdym razem, kiedy coś publikuję u siebie. Nie muszę przy niej zastanawiać się, jak i
+gdzie wrzucać słowa kluczowe w moich tekstach, gdyż Yoast SEO przedstawia mi to od razu. Pokazuje on listę miejsc oraz
+szczegółowo wyjaśnia, gdzie mam wstawić słowa kluczowe oraz w jakich ilościach. Jeśli to robię, zapala się przy punkcie
+z listy zielone światełko, jeśli nie — jest ono czerwone. Następnie otrzymuję ogólną ocenę za cały post w postaci
+zielonego, żółtego lub czerwonego światełka/kropki. Widzę od razu rezultaty tych działań na stronie, mam bowiem
+najwyższe statystyki wejść właśnie z wyszukiwarki Google."
+
+Urszula Bielska Phelep, (http://urszula-phelep.com/)
+
+Co, jeżeli nie korzystasz z Wordpressa? Polecam Seomofo ( http://www.seomofo.com/snippet-optimizer.html), który
+zoptymalizuje SERPY.
+
+3. Research.
+Rzetelny tekst bez researchu nie istnieje. By napisać kilka tysięcy znaków z sensem, w większości przypadków należy
+najpierw kilkadziesiąt tysięcy znaków przeczytać. Jak się w tym nie pogubić? Ja używam kilku rozwiązań:
+
+Pocket
+
+Evernote (https://evernote.com/intl/pl )
+
+Pinterest (najrzadziej) (https://pl.pinterest.com/)
+
+osobny folder na notatki i linki
+
+4. Słowa kluczowe
+Słowa kluczowe to dla mnie bardzo szeroki temat. Nie sprowadza się on jedynie do ustalenia podstawowej frazy. Często w
+samym tekście są ukryte zwroty, które można zastąpić bardziej popularnymi w wyszukiwarce synonimami. Uwaga! Wiem, że
+czasami kusi, by użyć wiele razy tego samego słowa. Jednak tekst ma być przyjemny w odbiorze dla użytkownika. Jest to
+wartość dużo wyższa niż natężenie frazy, które może okazać się za duże.
+
+Narzędzia dla optymalizacji słów kluczowych:
+
+Google trends
+
+Planer słów kluczowych Google (https://adwords.google.com/intl/pl_pl/home/tools/keyword-planner/)
+
+Keywordtool.io (https://keywordtool.io/)
+
+WordCounter (https://wordcounter.net/) - do sprawdzenia natężenia fraz
+
+5. Optymalizacja tekstu.
+Po napisaniu każdego tekstu obowiązkowo sprawdzam go za pomocą kilku narzędzi dla copywriterów:
+
+Languagetool (https://www.languagetool.org/pl/).
+
+Automatyczna korekta tekstu to coś, co czego mam zawsze dystans.Jest to jedyna strona, która warta uwagi, ale nie warto
+wierzyć na ślepo każdej podpowiedzi. Co nie zmienia faktu, że nawet najlepszy czasami zgubi przecinek.
+
+Hemingwayapp (http://www.hemingwayapp.com/)
+
+Sprawdza czytelność tekstu. Wskazuje które zdania są za długie. Istnieje polski odpowiednik, Jasnopis
+(http://www.jasnopis.pl/). Jednak do Hemingwaya zdążyłam się już przyzwyczaić.
+
+Wordcounter (https://wordcounter.net/)
+
+Liczenie liczby słów mogę sprawdzić w Hemingwayu, Wordcounter jest wygodniejszy. Dodatkowy plus — sprawdza natężenie
+fraz w tekście
+
+Copyscape (https://www.copyscape.com/ ), Plagiat Checker od Small Seo Tool
+(https://smallseotools.com/plagiarism-checker/)
+
+Nie mam większego zaufania do żadnego antyplagiatu. Tych dwóch używam zawsze, gdy piszę na temat techniczny i boję się
+przypadkowo użyć sformułowań wyczytanych przy researchu.
+
+6. Multimedia
+Zdjęcia, grafiki czy video to must have. W najlepszym wypadku masz lub umiesz zrobić swoje zdjęcia, które nie zostały
+nigdy wcześniej opublikowane. Jeżeli nie, drugim wyjściem są stocki, koniecznie z licencją CC-0. Jest kilka banków
+zdjęć, z których korzystam. Równie często zaglądam po inspiracje do dwóch obszernych list, które szczerze polecam:
+
+Gdzie szukać ładnych zdjęć? 52 darmowe stocki - One little smile
+(https://onelittlesmile.pl/2015/04/gdzie-szukac-adnych-zdjec-42-darmowe.html)
+
+Banki z darmowymi zdjęciami - Jacek Kłosiński (http://klosinski.net/banki-z-darmowymi-zdjeciami/)
+
+do obróbki zdjęć online - Pixlr (https://pixlr.com/)
+
+zmniejszanie wagi zdjęć - TinyJPG https://tinyjpg.com/ (choć częściej korzystam z opcji zapisu PIxlr)
+
+Slideshare ( https://www.slideshare.net/)
+
+Giphy (https://giphy.com/)
+
+Gotowy tekst jest przygotowany do publikacji. Czy to już wszystko? Niezupełnie, teraz czas na dystrybucję treści, o
+której już kiedyś pisałam. Mam nadzieję, że zaproponowane przeze mnie narzędzia Ci się przydadzą. Może nie wymieniłam
+jakiegoś, bez którego to Ty nie wyobrażasz sobie pracy? Jestem ciekawa, jak Ty pomagasz sobie w pracy.
+
+Pamiętaj, content dla contentu to gra niewarta świeczki. Kiedy poświęcasz tyle energii na optymalizację tekstu, postaraj
+się też, by był on rzetelny, dał czytelnikowi wartość. Nie zaśmiecajmy internetów tylko po to, by natężenie frazy
+kluczowej się zgadzało. Uważam, że żadne narzędzie nie zastąpi recenzji drugiej osoby. Jeżeli tylko masz możliwość dać
+gotowy tekst do przeczytania koleżance z działu, siostrze czy mężowi, to śmiało. W najgorszym wypadku samo przeczytanie
+na głos tekstu pozwoli nam wyłapać ostatnie „perełki”.
+
+To jest mój sposób na „content like a pro”. Jeżeli uważasz, że ten tekst może się komuś przydać, będę Ci wdzięczna za
+każdą formę udostępnienia go.
+
+Jeśli chcesz aby SeoNinja wykonał dla Ciebie kampanię Content Marketingową, prześlij swoje zgłoszenie na tej podstronie:
+http://seoninja.pl/wycena/ - czekamy na Ciebie:)

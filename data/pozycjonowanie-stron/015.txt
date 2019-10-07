@@ -1,0 +1,143 @@
+Pozycjonowanie lokalne – na czym polega? - Pozycjonowanie lokalne jest częścią SEO w rozumieniu ogólnym, czyli
+pozycjonowania stron w wyszukiwarkach internetowych. O tym, co wpływa na pozycjonowanie strony pisaliśmy wcześniej.
+Dzisiaj zajmiemy się SEO ukierunkowanym na lokalne działalności i małe firmy.
+
+Czym jest pozycjonowanie lokalne?
+Divider
+Ze wstępu wiesz już, że jest to część SEO w obrębie strony internetowej. Nastawione jest na dany region wyników
+wyszukiwania. Czyli wdraża się działania SEO, mające na celu umieścić stronę internetową jak najwyżej w wynikach
+wyszukiwania na dane słowo kluczowe dla danego regionu, np. pozycjonowanie stron Poznań. Ta sama zasada dotyczy słów
+kluczowych długiego ogona, jak na przykład sprawdzona firma w pozycjonowaniu stron internetowych w Poznaniu. Uogólniając
+- pozycjonowanie lokalne to proces nastawiony na SEO strony dla danego regionu (województwa) lub miasta.
+
+
+
+Na czym polega pozycjonowanie lokalne?
+Divider
+Same w sobie działania są zbliżone do tych, jakie wdraża się przy pozycjonowaniu ogólnym. Aby jednak pozycjonowanie
+przebiegło prawidłowo, trzeba wziąć pod uwagę kilka rzeczy:
+
+Geolokalizacja: polega na lokalizacji miejsca użytkownika, w jakim się znajduje i na tej podstawie wyświetla mu wyniki
+wyszukiwania. Na przykład potencjalny klient znajduje się w Poznaniu: po wpisaniu frazy w wyszukiwarkę “tworzenie stron
+www”, powinien otrzymać listę z najwyżej ocenianymi firmami w Poznaniu. Do geolokalizacji w dużej mierze przyczynia się
+wizytówka firmy w Google Maps. Właśnie dzięki temu Google jako pierwsze w wynikach wyszukiwania wyświetla lokalne firmy.
+Jednak mocniejszym sygnałem dla Google są tak zwane pytania geolokalizacyjne - i tutaj już nie ma znaczenia lokalizacja,
+w jakiej znajduje się dany użytkownik. Kiedy zostanie wpisana fraza tworzenie stron internetowych Poznań, użytkownik
+otrzyma listę firm z Poznania zajmujących się tworzeniem stron internetowych - niezależnie od miejsca, w jakim się
+znajduje. Przykładowo może być w Gdańsku, jednak dzięki zapytaniom ukierunkowanym na miasto Poznań otrzymuje wyniki
+wyszukiwania właśnie z tego miasta.
+
+Divider
+Badanie rynku i konkurencji: ustalenie kluczowych fraz do pozycjonowania należy rozpocząć od rozeznania na lokalnym
+rynku firm, szczególnie tych zbliżonych usługami czy ofertą do firmy pozycjonowanej.
+Link building lokalny: należy opracować strategię budowania linków lokalnych. Na przykład na regionalnych stronach
+internetowych, forach czy katalogach firm dla danego miasta. Dzisiaj może katalogowanie firm nie ma już tak dużego
+znaczenia dla SEO jak kiedyś, jednakże nie zaszkodzi zadbać o ten aspekt. Należy jednak pamiętać, aby w każdym katalogu
+firma miała unikalny opis, aby nie tworzyć duplicate content.
+Odległość użytkownika: ma ona wpływ na wyświetlanie firmy w wynikach wyszukiwania lokalnego. Szczególnie jeśli jest to
+wyszukiwanie mobilne. Im bliżej potencjalnego klienta znajduje się firma, tym większe prawdopodobieństwo, że zostanie
+ona wyświetlona jako pierwsza.
+
+Pozycjonowanie lokalne? Ale po co mi to?
+Divider
+To najlepszy sposób, aby dotrzeć do lokalnego, potencjalnego klienta w internecie. W obecnych czasach ok. 88% osób
+korzystających ze smartfona wyszukuje firmy lokalne za pomocą wyszukiwarek internetowych. Z kolei 78% z tych osób
+dokonuje zakupu lub korzysta z wyszukanej usługi. Świat przeniósł się do internetu i będąc właścicielem firmy musisz być
+tego świadomy.
+
+Po co pozycjonować lokalnie?
+Divider
+Dotarcie do lokalnego klienta
+Generowanie sprzedaży
+Budowanie znajomości marki na tle konkurencji
+Zwiększenie świadomości marki wśród odbiorców lokalnych
+Wsparcie działań SEO ogólnych (i odwrotnie)
+Minimalizacja kosztów kampanii marketingowych
+Poniżej znajdują się informacje, czego najczęściej szukają użytkownicy lokalni. Nie zapominajmy również, że użytkownicy
+lokalni to nie tylko okoliczni mieszkańcy, ale także turyści szukający atrakcji i lokali w danym mieście.
+
+Wyszukiwanie lokalne względem urządzeń (komputer, tablet, smartfon) - najczęściej wyszukiwane rzeczy:
+
+
+
+
+Oprócz konkretnych branż, wśród statystyk możemy wyróżnić również dane mówiące o tym, jakich informacji o danej firmie
+oczekuje potencjalny klient. Na wykresie poniżej zostały przedstawione najważniejsze dane względem użytkowników:
+
+
+Godziny w jakich działa firma - 56%
+Promocje, oferty specjalne i zniżki - 37%
+Opinie i recenzje - 33%
+Aktualna strona internetowa danej firmy - 26%
+Co jest jeszcze ważne przy lokalnym pozycjonowaniu firmy?
+Divider
+Jednym z ważniejszych czynników wpływających na pozycjonowanie są działania prowadzone on-site. Ważne są tak samo dla
+pozycjonowania lokalnego, jak i ogólnego. Różnią się tylko ustawieniami, frazami kluczowymi i późniejszym wdrażaniem
+strategii link buildingu. Oczywiście wspomniany link building to już działania off-site (poza stroną).
+
+Wizytówka Google Moja Firma i widoczność w Google Maps to również czynniki wspomagające lokalne pozycjonowanie. I wbrew
+pozorom są bardzo znaczące - dlaczego, wyjaśniamy poniżej. Najpierw omówimy, co kryje się za tajemniczymi działaniami
+on-site.
+
+
+
+Divider
+Działania on-site to aspekty, które należy wdrożyć w obrębie strony internetowej. Zaliczamy do nich między innymi: adres
+siedziby firmy i telefon kontaktowy, dane strukturalne, meta tagi, słowa kluczowe, optymalizację treści na stronie oraz
+implementację Mapy Google.
+
+Wszystkie wymienione czynniki są składową mającą wpływ na pozycjonowanie lokalne:
+
+Adres firmy i numer do kontaktu - powinien znajdować się w stopce, ale można go umieścić również na górze strony.
+Obowiązkowo w zakładce KONTAKT. Oprócz tego, że automatycznie podnosimy wiarygodność firmy (klient ma poczucie, że firma
+fizycznie istnieje i może ją sprawdzić) to jest to jasny komunikat dla robotów o lokalizacji, w jakiej firma się
+znajduje.
+Dane strukturalne - to informacje niewidoczne dla użytkowników stron internetowych, ale widoczne dla robotów
+wyszukiwarek.
+Meta tagi i słowa kluczowe - powinny być dobrane tak, aby opisywały lokalizację firmy - Miasto, powiat, gmina,
+województwo itd. Należy jednak pamiętać, jaki cel lokalny zakładamy. Czy firma ma być pozycjonowana na dane miasto,
+województwo itd. Natomiast słowa kluczowe z kolei powinny być dobrane w sposób naturalny, czyli bez dziwnych kombinacji
+typu „Firma XYZ Poznań to miasto doznań”. Takie połączenie wygląda wręcz komicznie.
+Divider
+Implementacja map Google - mapę Google najlepiej umieścić w zakładce KONTAKT. Dzięki temu użytkownik w łatwy sposób może
+określić dokładną lokalizację firmy względem swojego położenia.
+Link building - jest to działanie poza stroną firmy, czyli działanie off-site. Jest to budowanie bazy linków
+prowadzących do strony firmowej z innych stron internetowych. W SEO lokalnym należy skupić się na pozyskiwaniu linków z
+lokalnych stron internetowych.
+
+
+Divider
+Optymalizacja treści na stronie - "Dobre treści obronią się same" - Tak mówią... A my to potwierdzamy! Każdy
+zaciekawiony wpisem czytelnik to potencjalny klient. Jednak żeby takiego czytelnika zaciekawić, należy go znaleźć!
+Wystarczy zrobić bardzo “prostą” rzecz - pisać treści zgodne z wytycznymi SEO. Na tym polega optymalizacja treści.
+Oprócz ogólnych zasad pisania pod pozycjonowanie stron internetowych, w SEO lokalnym należy dołączyć do tekstów frazy
+kluczowe. Frazy te muszą być związane z miejscowością w jakiej znajduje się firma. Oczywiście zachowując przy tym
+naturalność i estetykę w odczuciu czytanych tekstów.
+Przykład:
+Tytuł: Najlepsze lody w trójmieście!
+
+Fraza kluczowa: lody w Gdyni.
+
+Treść: Lodziarnia Bajka jest jedną z trzech najlepszych w trójmieście. Według ankietowanych to właśnie w Bajce zjesz
+najsmaczniejsze lody w Gdyni.
+
+Ważne jest, aby umieszczenie frazy kluczowej było naturalne. Jeśli tak nie będzie, gwarantujemy, że czytelnik to zauważy
+i słusznie będzie miał poczucie, że tekst jest kierowany głównie do robotów wyszukiwarek, a nie do niego bezpośrednio.
+
+Google Moja Firma - darmowa wizytówka
+Divider
+Dzięki założeniu wizytówki Google Moja Firma Twoja firma zostanie wyświetlona w mapach Google. Umożliwia to również
+dodanie opinii i recenzji użytkownikom, którzy skorzystali już z jej usług. Co więcej, zakładając wizytówkę, należy
+uzupełnić takie informacje jak adres firmy, godziny jej funkcjonowania, adres strony internetowej. Oprócz tego można
+opisać działalność firmy i usługi, jakie oferuje. Dane można uzupełnić o zdjęcia siedziby lub asortymentu, jeśli taki
+oferuje. Można też wstawić logo.
+
+Ważną możliwością jaką daje wizytówka od Google jest interakcja z użytkownikami. Ludzie często zadają pytanie o
+działanie firmy, asortyment, możliwość płatności kartą, itp. Dzięki wizytówce przedsiębiorca może odpowiadać na te
+pytania bezpośrednio.
+
+
+PODSUMOWANIE
+Poprawne wdrożenie pozycjonowania lokalnego sprawi, że firma będzie widoczna w internecie, a tym samym stanie się
+wiarygodna dla użytkowników. Samo pozycjonowanie umożliwi budowanie świadomości marki wśród lokalnych klientów, co
+przełoży się na bezpośredni zysk firmy.

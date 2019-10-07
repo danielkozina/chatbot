@@ -1,0 +1,129 @@
+Jak certyfikat SSL wpływa na pozycjonowanie? - W XXI wieku, gdy prowadzisz biznes, a nie ma Cię w Internecie, nie
+docierasz do szerokiego grona potencjalnych klientów. Dlatego też ogromna ilość firm inwestuje w strony internetowe,
+rozpoczyna sprzedaż w sklepach online lub w serwisach aukcyjnych. Powszechność takich rozwiązań powoduje, że klienci
+coraz częściej obawiają się o poufność swoich danych, które przesyłają. Często są to informacje wrażliwe dla klienta,
+dlatego najbardziej polecane są witryny posiadające certyfikaty bezpieczeństwa. Czy jednak certyfikat SSL wpływa na
+pozycjonowanie strony internetowej lub sklepu w Google? A jeśli tak, to jak znaczący jest to wpływ? Zapraszamy do
+artykułu!
+
+Czym jest certyfikat SSL i jak go uzyskać?
+Divider
+SSL to protokół stosowany w połączeniach internetowych. Używany jest dla zapewnienia bezpieczeństwa danych użytkowników
+sieci. Certyfikat SSL jest jednolity i niezależny od protokołu danej aplikacji. Jego twórcy założyli stosowanie go w
+celu zachowania wysokiej poufności danych przesyłanych w danej witrynie internetowej. W linii prostej oznacza to, że
+certyfikat SSL znajduje zastosowanie dla stron www, serwerów pocztowych czy serwerów FTP. Jego obsługa jest bardzo
+łatwa, a możliwości duże. Nie może zatem dziwić fakt, że znalazł on zastosowanie w transakcjach bankowości
+elektronicznej, w obsłudze aukcji internetowych czy też innych systemach płatności online.
+
+
+
+Divider
+W wielu przypadkach ludzie zwracają uwagę na posiadanie przez stronę certyfikatu i bez niego nie chcą wykonywać
+płatności online. Część banków internetowych przestrzega przed dokonywaniem opłat w serwisach, które nie posiadają
+certyfikatu SSL, jako że są to strony niesprawdzone. Symbolem certyfikatu stała się zamknięta kłódka pojawiająca się w
+pasku zadań przeglądarki internetowej. Sprawdzone serwisy posiadają ją zamkniętą - te nieposiadające certyfikatu nie
+mają w ogóle kłódki lub jest ona otwarta. Inną cechą charakterystyczną będzie fakt, że adres internetowy strony
+rozpoczyna się od przedrostka https://.
+
+Często znaczek graficzny połączony jest ze zmianą koloru paska zadań na zielony - w graficznym wskazaniu, że domena jest
+bezpieczna. Warunkiem, jaki należy spełnić, aby uzyskać certyfikat SSL jest posiadanie gotowej strony internetowej w
+domenie, która jest zarejestrowana na konto firmowe.
+
+Divider
+Aby wykupić certyfikat, koniecznym jest także posiadanie firmowego adresu e-mail w rzeczonej domenie. Certyfikat oraz
+jego implementacja nie są drogie. W zależności od dostawcy ceny zaczynają się od 50 złotych, a kończą na około 500
+złotych. Istnieje możliwość uzyskania darmowego certyfikatu. Jest to jednak obarczone ryzykiem. Może się zdarzyć, że
+oferowany przez nich SSL wcale nie chroni danych ze strony. To, co miało zabezpieczać i zapewniać prestiż może stać się
+wtedy przyczyną niekorzystnych dla firmy działań. Dlatego warto zamówić certyfikat od sprawdzonego dostawcy o dużej
+renomie.
+
+Zalety stosowania certyfikatu SSL
+Divider
+Wykupienie i zainstalowanie dla swojej witryny internetowej certyfikatu SSL ma wiele zalet. Najważniejsza z nich to
+zapewnienie poczucia bezpieczeństwa. Klient jest pewien, że przesyłane dane nie trafią w niepowołane ręce. Wbrew pozorom
+coraz większa liczba osób zwraca uwagę na bezpieczeństwo swoich danych w sieci. Minęła era nieświadomego konsumenta.
+Klient chętniej dokona zakupów lub użyje formularza kontaktowego na stronie, która charakteryzuje się certyfikatem.
+Kolejną zaletą jest szyfrowanie danych.
+
+Certyfikat chroni poufne dane klientów w czasie przesyłania. Zakodowane dane są dużo bardziej bezpieczne zarówno z
+punktu widzenia samego klienta, jak i sklepu internetowego. Świadomość społeczna w kontekście bezpieczeństwa danych w
+sieci cały czas rośnie, a certyfikat SSL potwierdza wiarygodność całego serwisu. W przypadku zastosowania innych,
+bardziej kompleksowych certyfikatów bezpieczeństwa, podnoszą one wiarygodność całej firmy.
+
+
+
+Divider
+Inną cenną zaletą jest prestiż, jaki zyskuje przedsiębiorstwo dzięki certyfikatowi. Oznacza on, że w firmie dba się o
+poufność klienta i stosuje wszelkie zasady bezpieczeństwa danych. Co więcej, dzięki certyfikatowi SSL wzrasta
+rozpoznawalność marki. Jego posiadanie wskazuje potencjalnym klientom lub współpracownikom, że firma jest godna zaufania
+i warta współpracy.
+
+Wspomniane zalety są bardzo ważne z punktu widzenia zarówno prowadzącego serwis internetowy, jak i z punktu widzenia
+klienta. Posiadanie odpowiedniego certyfikatu bezpieczeństwa to wiadomość dla osób postronnych i sposób komunikowania z
+zainteresowanymi klientami - wiedzą oni, że mają do czynienia z godną zaufania firmą o wysokich standardach obsługi.
+Wielu właścicieli stron mogłoby uznać certyfikat za coś zbędnego, jednak świadomi konsumenci nie zdecydują się na zakup
+ze strony "bez kłódki". Tak sugerują strony największych banków oraz racjonalne podejście do zakupów. Posiadanie
+certyfikatu SSL stało się zatem inwestycją w dobrze funkcjonujący serwis internetowy.
+
+Najważniejsze czynniki rankingowe Google
+Divider
+Zanim udzieli się odpowiedzi na zadane w nagłówku pytanie, należy prześledzić mechanizm działania algorytmów Google. Za
+najważniejsze czynniki wpływające na pozycję serwisu w wyszukiwarce internetowej uważa się między innymi jakość domeny.
+To czy jest się pierwszym właścicielem domeny, czy są z nią związane jakieś nielegalne działania. To, jaka jest historia
+linków prowadzących do domeny to jeden z głównych faktorów mających wpływ na pozycje fraz kluczowych. Ważnym jest, by
+algorytm nie uznawał witryny za generującej spam, gdyż wtedy wszystkie jej działania z miejsca będą wyłapywane a
+umiejscowienie w serpach będzie coraz gorsze. Warto zatem dbać o jakość treści prezentowanych na domenie oraz o to, by
+filtry antyspamowe nie uznały treści zewnętrznych za niezgodne z zasadami wyszukiwarki Google.
+
+Kluczem do wysokich pozycji wyrażeń kluczowych w Google jest techniczna optymalizacja strony. Ważnym jej elementem jest
+optymalizacja meta tagów: title i description. Jeśli poprawnie umieści się słowo lub słowa kluczowe w tytule strony,
+znacząco ułatwi to wyszukanie jej przez algorytmy wyszukiwarek. Dodatkowo warto zwrócić uwagę na opis strony i to, czy
+zostały tam umieszczone słowa kluczowe oraz CTA. Algorytm rozpoznaje także w jaki sposób umieszczone są słowa, więc nie
+warto używać słów kluczowych w sposób pozbawiony ładu.
+
+
+
+Divider
+To, jak szybko ładuje się strona, jest aktualnie bardzo istotne dla Google. Aby zweryfikować szybkość działania strony
+www warto korzystać z odpowiednich narzędzi, na przykład GT Metrix czy też Google Speed Insight. Kolejną częścią
+poprawnie zoptymalizowanej strony jest zgłoszenie mapy serwisu internetowego w formacie xml oraz podlinkowanie jej w
+ramach domeny w formacie HTML - warto pamiętać, że wyszukiwarka oparta jest na automatycznych działaniach. Zastosowanie
+map ułatwia im pracę i pozwala na lepsze wykorzystanie budżetu indeksowania.
+
+Jednym z głównych czynników optymalizacji jest także to, co znajduje się na stronie internetowej. Serwisy bogate w treść
+lepiej się pozycjonują. Ale należy zadbać, żeby były one wysokiej jakości. Wbrew pozorom algorytmy Google rozpoznają
+poprawność językową i semantykę, dlatego teksty powinny być unikalne, nasycone wyrażeniami bliskoznacznymi oraz
+pozbawione błędów ortograficznych Duplikowanie treści jest bardzo złym sygnałem dla Google. Systemy wyszukiwarki
+internetowej bardzo promują aktualizowane treści – warto zatem często rozbudowywać opublikowane już treści.
+
+Jak certyfikat SSL wpływa na pozycjonowanie?
+Divider
+Czy jednak certyfikat SSL jest czynnikiem wpływającym na pozycjonowanie strony? Okazuje się, że tak. Posiadanie
+certyfikatu SSL znacząco zwiększa bezpieczeństwo korzystania z danej witryny internetowej. Google promuje bezpieczne
+strony, ponieważ chce, aby w ich indeksie znajdowały się wyłącznie domeny o wysokim autorytecie.
+
+Jest to zatem jeden z pozytywnych czynników rankingowych. Oczywiście samo posiadanie certyfikatu nie wywinduje strony na
+pierwszą pozycję w wyszukiwarce, jednak już kompilacja z innymi istotnymi czynnikami sprawi, że strona internetowa
+będzie dobrze rankować. Dlatego też opłacalną inwestycją jest implementacja certyfikatu SSL. Google już od dłuższego
+czasu faworyzuje strony z https:// w porównaniu do ich mniej bezpiecznej konkurencji. Widać to po ilości domen z w TOP
+10 z różnych branż. Certyfikat SSL to nie tylko gwarancja bezpieczeństwa oraz lepszej pozycji w wyszukiwarce, ale także
+symbol prestiżu dla stron biznesowych.
+
+
+
+Konsekwencje dla przedsiębiorstwa
+Divider
+Posiadanie certyfikatu ułatwia pozycjonowanie strony internetowej w Google. Sprawia, że strona serwisu będzie poprawnie
+działać na każdej przeglądarce internetowej, bez komunikatów o braku poufności czy ryzyku związanym z korzystaniem z
+niej. Jest to ważne z punktu widzenia postrzegania marki przez klientów. Kto chce korzystać ze strony www, która już na
+starcie oznaczana jest jako niebezpieczna, być może zbierająca dane w niepowołany sposób? Ludzie wykazują się coraz
+większą świadomością korzystania z dobrodziejstw stron internetowych. Posiadanie certyfikatu to jednocześnie wzrost
+prestiżu w kontaktach biznesowych. Kontrahenci przychylnym okiem spoglądają na strony dbające o poufność danych. Wiadomo
+wtedy, że właściciel dba o swoich klientów i to, jak jest postrzegany.
+
+
+PODSUMOWANIE
+Certyfikat SSL na stałe wszedł do powszechnego stosowania przez właścicieli domen internetowych. Nie bez znaczenia jest
+fakt, że zabezpiecza on poufność konsumentów. Ludzie są coraz bardziej świadomi tego, jak ważne są ich wrażliwe dane,
+ponieważ co rusz są narażani na ich kradzież. Posiadanie certyfikatu SSL jest aktualnie nie tylko standardem, ale przede
+wszystkim możliwością uzyskania prestiżu i dobrej pozycji w wyszukiwarce internetowej.

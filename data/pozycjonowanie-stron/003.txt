@@ -1,0 +1,167 @@
+Jak zwiększyć ruch w sklepie, dzięki jego dodatkowej optymalizacji?
+Często spotykam sklepy internetowe, które są już niby zoptymalizowane. Niemniej bardzo często okazuje się, że można
+wykonać jeszcze sporo dobrej pracy. Dzięki temu ruch w sklepie może znacznie wzrosnąć bez konieczności dodatkowych
+cyklicznych prac i podnoszenia kosztu stałego.
+
+
+
+1. Przygotuj zestawienie fraz kluczowych
+
+
+2. Podziel je na kategorie
+
+
+3. Sprawdź istniejącą optymalizację
+
+
+4. Przygotuj zestawienie nowych fraz
+
+
+5. Przygotuj meta dane
+
+
+6. Przygotuj Nagłówki
+
+
+7. Pamiętaj o opisach
+
+
+8. Wykonaj wewnętrzne linkowanie
+
+
+9. Usuń nie istniejące adresy url
+
+10. Ciesz się wzrostem widoczności
+
+
+
+1. Przygotuj zestawienie fraz kluczowych
+W pierwszej kolejności należy przygotować zestawienie już istniejących fraz kluczowych. Zestawienie powinno być
+przygotowane w taki sposób, aby można było z niego wywnioskować, które frazy kluczowe są zoptymalizowane dla których
+podstron. Dzięki temu zyskamy bazę, która posłuży nam do dalszej pracy. Często, jeśli strona była wcześniej
+pozycjonowana, to właściciel posiada w dokumentacji takie zestawienie w excelu. Jeśli nie, możesz wesprzeć się np
+darmowym narzędziem Screaming Frog
+
+
+
+Do przygotowania zestawienia fraz i urli, przyda Ci się narzędzie Screaming Frog
+
+2. Podziel je na kategorie
+Aby można było konstruktywnie pracować nad obróbką fraz, konieczne jest, abyś podzielił je na odpowiednie kategorie.
+Przykład takiego podziału może wyglądać następująco:
+
+
+
+a) frazy kategorii i podkategorii
+
+b) frazy produktowe
+
+c) frazy brandowe
+
+d) frazy poradnikowe
+
+Dzięki temu uzyskamy ład i porządek i łatwiej będzie przejść nam do kolejnych kroków optymalizacji.
+
+
+
+Przykładowy szablon, w jaki sposób możesz podzielić frazy na kategorie.
+
+3. Sprawdź istniejącą optymalizację
+Na początek należy upewnić się, czy optymalizacja jest dobrze wykonana dla już istniejących fraz kluczowych. Często
+okazuje się, że pominięte są ważne jej elementy. Strona może mieć źle zoptymalizowane meta dane, nagłówki czy treści.
+
+Zasadniczo w tym miejscu, należy na bazie w/w zestawienia sprawdzić, na ile poprawnie są zoptymalizowane poszczególne
+podstrony dla poszczególnych fraz kluczowych. Optymalizację należy sprawdzić przede wszystkim dla:
+
+
+
+a) Kategorii
+
+b) Podkategorii
+
+c) Filtrów
+
+d) Marek
+
+e) Wpisów blogowych
+
+4. Przygotuj zestawienie nowych fraz kluczowych
+Posiadamy już aktualne frazy, wiemy do których podstron są przypisane i są odpowiednio posortowane. Teraz nadchodzi czas
+na znalezienie nowych, dodatkowych słów kluczowych. Poniżej przedstawiam sposoby z jakich możemy skorzystać
+
+
+
+a) Przeanalizuj dokładnie konkurencję
+
+Pierwszy sposób polega na tym, że wybieramy jedną lub kilka stron konkurencyjnych. Następnie sprawdzamy narzędziem, na
+które frazy kluczowe są widoczne w top 10 czy nawet top 50. Kiedy posiadamy już długą listę fraz, kopiujemy je do
+excela. W tym samym dokumencie doklejamy nasze frazy i odpowiednio usuwamy duplikaty. Dzięki temu pozostanie nam
+zestawienie fraz na które nie jesteśmy widoczni. Wystarczy teraz przyporządkować je do pasujących podstron i gotowe
+
+
+
+Frazy, na które jest zoptymalizowana konkurencja, możesz sprawdzić np narzędziem Semstorm
+
+
+
+b) Znajdź samodzielnie własne niszowe-dodatkowe słowa
+
+Wersja dokładniejsza i dużo bardziej czasochłonna. Jednym ze sposobów jest wklejanie w google planner słów kluczowych
+kolejno fraz z danych podstron i za pomocą podpowiedzi wybieranie dodatkowych fraz, które są najbardziej adekwatne.
+
+Znajdź frazy za pomocą Google Plener Słów Kluczowych
+
+Znajdź frazy za pomocą Google Planner Słów Kluczowych
+
+
+
+Wspieraj się narzędziem answerthepublic.com
+
+5. Przygotuj meta dane
+Posiadając już doatkowe zestawienia fraz, możesz zastanowić się w jaki sposób przygotujesz meta dane. Możesz to zrobić
+na kilka sposobów, zależnie od tego, do których podstron przyporządkowałeś nowe frazy.
+
+
+
+a) Dla tej samej kategorii
+
+Jeśli frazy kluczowe są mocno powiązane z daną kategorią czy podkategorią, wówczas możesz wykonać nieznacznej
+modyfikacji title czy description i z łatwością uda Ci się dodać to nowe słowo czy słowa.
+
+b) Dla nowych kategorii
+
+Jeśli z kolei słowa mocno różnią się od kategorii wówczas jednym ze sposobów jest dobudowanie osobnej kategorii czy
+tagu, jeśli Twój sklep ma taką możliwość. W takiej sytuacji masz pełne pole do popisu, gdyż możesz wykonać dedykowane
+meta dane i opisy tylko dla tej właśnie frazy kluczowej.
+
+6. Przygotuj nagłówki
+Oczywiście jednocześnie musisz pamiętać, aby Twoje słowo czy słowa, znalazły się też w nagłówkach. Jeśli nagłówek H1
+jest już zajęty i nie masz możliwości, aby wykorzystać go dla nowej frazy czy fraz, wówczas warto dobudować osobny
+śródtytuł w opisie kategorii i tam umieścić frazę w H2.
+
+
+
+Przykładowy szablon przygotowania roboczego nagłówków w optymalizacji
+
+Warto w tym miejscu posłużyć się podobnym exclem jak wyżej. Mianowicie w można dodać osobną kolumnę nagłówki H1 i H2 i
+tam zamieścić istniejące frazy.
+
+7. Pamiętaj o opisach
+Dodatkowe frazy kluczowe powinny też oczywiście znaleźć się w opisach kategorii, dla której są optymalizowane. Z
+pewnością dla wielu czytelników SeoNinja to dosyć oczywiste, ale o najważniejszych rzeczach łatwo zapomnieć.
+
+8. Wykonaj wewnętrzne linkowanie
+Jeśli mamy już dobudowane kategorie, warto aby pojawiły się do nich odnośniki z innych kategorii lub też z najnowszych
+wpisów blogowych. Dzięki temu nasze frazy zdobędą podstawową moc.
+
+
+
+Przykład wzorowo wykonanych nagłówków, opisów i linkowania wewnętrznego w sklepie Zalando
+
+Prezentacja
+
+
+Podsumowanie
+Gwarantuję Ci, że jeśli zastosujesz ten zabieg, to na 99% wzrośnie ruch na Twojej stronie. Nie spotkałem się jeszcze z
+dobrze wykonaną optymalizacją, która by nie przyniosła efektu. Przeanalizuj dokładnie te kroki wraz ze swoim sklepem i
+po prostu wykonaj je wg kolejności.
