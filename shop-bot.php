@@ -25,14 +25,18 @@ use Phpml\Tokenization\NGramTokenizer;
 // );
 
 $dataset = new FilesDataset('data/webcrafters.studio');
-$split = new StratifiedRandomSplit($dataset, 0.1);
+// var_dump($dataset);
+$split = new StratifiedRandomSplit($dataset, 0.5);
+// var_dump($split);
 $pipeline = new Pipeline([
     new TokenCountVectorizer($tokenizer = new NGramTokenizer(1, 3), new Polish()),
     new TfIdfTransformer()
 ], new SVC(Kernel::LINEAR));
+// var_dump($pipeline);
 
 $pipeline->train($split->getTrainSamples(), $split->getTrainLabels());
 $predicted = $pipeline->predict($split->getTestSamples());
+// var_dump($predicted);
 
 $modelManager = new ModelManager();
 $modelManager->saveToFile($pipeline,'model/shop-model.phpml');
